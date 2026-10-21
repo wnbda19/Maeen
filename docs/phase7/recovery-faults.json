@@ -1,0 +1,8 @@
+{
+  "method": "Node VM fault injection of actual worker generator; not a physical/browser network test",
+  "failedInstallRejected": true,
+  "previousShellRetained": true,
+  "interruptedModelStatus": 503,
+  "partialModelCached": false,
+  "recoveredModel": true
+}

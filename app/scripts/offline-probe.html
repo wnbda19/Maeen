@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>MAEEN offline diagnostic</title>
+  </head>
+  <body>
+    <h1>Offline diagnostics</h1>
+    <pre id="result">Reading state…</pre>
+    <script>
+      (async () => {
+        const result = {
+          url: location.href,
+          serviceWorkerSupported: "serviceWorker" in navigator,
+        };
+        try {
+          result.controller =
+            navigator.serviceWorker?.controller?.scriptURL ?? null;
+          result.registrations = (
+            await navigator.serviceWorker.getRegistrations()
+          ).map((r) => ({
+            scope: r.scope,
+            active: r.active?.state,
+            waiting: r.waiting?.state,
+            installing: r.installing?.state,
+          }));
+          result.caches = [];
+          for (const name of await caches.keys()) {
+            const cache = await caches.open(name);
+            result.caches.push({
+              name,
+              urls: (await cache.keys()).map((r) => r.url),
+            });
+          }
+        } catch (error) {
+          result.error = String(error);
+        }
+        document.getElementById("result").textContent = JSON.stringify(
+          result,
+          null,
+          2,
+        );
+      })();
+    </script>
+  </body>
+</html>

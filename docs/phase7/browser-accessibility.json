@@ -1,0 +1,1735 @@
+{
+  "physicalDevices": false,
+  "screenReader": "UNTESTED",
+  "routes": [
+    {
+      "language": "ar",
+      "route": "home",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "ar",
+      "route": "translator",
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "video-caption"
+      ],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "ar",
+      "route": "radar",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "ar",
+      "route": "dictionary",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "ar",
+      "route": "more",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "ar",
+      "route": "settings",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "en",
+      "route": "home",
+      "violations": [],
+      "incomplete": [
+        "color-contrast"
+      ],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "en",
+      "route": "translator",
+      "violations": [],
+      "incomplete": [
+        "color-contrast",
+        "video-caption"
+      ],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "en",
+      "route": "radar",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        },
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "en",
+      "route": "dictionary",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "en",
+      "route": "more",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "language": "en",
+      "route": "settings",
+      "violations": [],
+      "incomplete": [],
+      "liveRegions": [
+        {
+          "role": "status",
+          "live": null
+        }
+      ],
+      "dialogs": 0,
+      "text200": {
+        "overflow": false,
+        "fontSize": "32px"
+      },
+      "zoomEquivalent": {
+        "overflow": false,
+        "headingVisible": true
+      },
+      "reducedMotion": true
+    }
+  ],
+  "keyboard": [
+    {
+      "language": "ar",
+      "route": "home",
+      "focus": [
+        {
+          "tag": "A",
+          "name": "مترجم الإشارة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "جرّب الرادار الذكي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "حرفك يصبح نصاًشاهد الكاميرا ونقاط اليد إلى جانب النص. عدّل ما تكتبه، ثم انطقه بصوت المتصفح",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "الصوت، بصورة مرئيةراقب إشارة الميكروفون واضبط عتبة تنبيهك. تظهر التنبيهات من القياس الفعلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "كلمات جاهزة للحظة المناسبةتسع عبارات عربية قابلة للبحث والعرض والنطق، مع مساحة لكتابة رسال",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "عن مُعِين",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "تخطي إلى المحتوىمُمُعِينMAEENمساحة التواصلالرئيسيةمترجم الإشارةالرادار الذكيالتواصلمزايا أ",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "تخطي إلى المحتوى",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مُمُعِينMAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "الرئيسية",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مترجم الإشارة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "الرادار الذكي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "التواصل",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مزايا أخرى",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "route": "translator",
+      "focus": [
+        {
+          "tag": "SELECT",
+          "name": "العربية — ArSLASL — American Sign Language한국 수어 — KSL",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "فئات الحروف المدعومة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "الحروفحروف عربية · النموذج الحالي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "الكلماتتعرّف مباشر · قيد التطوير",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "تعلم الحروف",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "تشغيل الكاميرا",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "الأماميةالخلفية",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "إضافة مسافة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "عن مُعِين",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "تخطي إلى المحتوىمُمُعِينMAEENمساحة التواصلالرئيسيةمترجم الإشارةالرادار الذكيالتواصلمزايا أ",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "تخطي إلى المحتوى",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مُمُعِينMAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "الرئيسية",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "route": "radar",
+      "focus": [
+        {
+          "tag": "BUTTON",
+          "name": "تشغيل الميكروفون",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الأصوات المطلوبة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "route": "dictionary",
+      "focus": [
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "السلام عليكم",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "أحتاج مساعدة طبية",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "أشعر بألم شديد",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "شكراً جزيلاً",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "أين الطبيب؟",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "والدي / أبي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "دواء وعلاج",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "تحذير / خطر",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "فهمت كلامك تماماً",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "عن مُعِين",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "تخطي إلى المحتوىمُمُعِينMAEENمساحة التواصلالرئيسيةمترجم الإشارةالرادار الذكيالتواصلمزايا أ",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "تخطي إلى المحتوى",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "route": "more",
+      "focus": [
+        {
+          "tag": "SUMMARY",
+          "name": "الحروف والكاميرامتاح جزئياً",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "عبارات التواصلمتاح",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الرادار والتنبيهات المرئيةمتاح جزئياً",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "إمكانية الوصولمتاح",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "أوقات الصلاةتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "القبلةتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الساعة الذكيةتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "السيارة وCarPlayتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الاستشارة الطبيةتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الطوارئ وSOSتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الإشعارات والاهتزازمتاح جزئياً",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الكلام والأسماءتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "النص إلى إشارةتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "الكاميرا الإضافية والمصباحتكامل مستقبلي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "ar",
+      "route": "settings",
+      "focus": [
+        {
+          "tag": "BUTTON",
+          "name": "العربية ع",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "English En",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "اتّباع تفضيل الجهازتقليل الحركة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "قياسيكبير",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "قياسيمرتفع",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "عن مُعِين وحدود النسخة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "عن مُعِين",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "تخطي إلى المحتوىمُمُعِينMAEENمساحة التواصلالرئيسيةمترجم الإشارةالرادار الذكيالتواصلمزايا أ",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "تخطي إلى المحتوى",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مُمُعِينMAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "الرئيسية",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مترجم الإشارة",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "الرادار الذكي",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "التواصل",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "route": "home",
+      "focus": [
+        {
+          "tag": "A",
+          "name": "Sign translator",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Explore smart radar",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Your letters, in textSee the camera and hand landmarks beside your text. Edit your message",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Make sound activity visibleMonitor the microphone signal and set your alert threshold. Ses",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Words for the momentNine searchable Arabic phrases to display or speak, with room to write",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "About MAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Skip to content",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مُمُعِينMAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Home",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Sign translator",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Smart radar",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Communication",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "More Features",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Settings",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "route": "translator",
+      "focus": [
+        {
+          "tag": "SELECT",
+          "name": "العربية — ArSLASL — American Sign Language한국 수어 — KSL",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Supported letter classes",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Arabic LettersArabic letters · current model",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Arabic WordsDirect recognition · in development",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Learn Signs",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Start camera",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "FrontRear",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "Add space",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "About MAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "Skip to contentمُمُعِينMAEENCommunication spaceHomeSign translatorSmart radarCommunication",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Skip to content",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مُمُعِينMAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Home",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "route": "radar",
+      "focus": [
+        {
+          "tag": "BUTTON",
+          "name": "Start microphone",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Sound categories",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "route": "dictionary",
+      "focus": [
+        {
+          "tag": "INPUT",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "السلام عليكم Peace be upon you",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "أحتاج مساعدة طبية I need medical help",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "أشعر بألم شديد I am in severe pain",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "شكراً جزيلاً Thank you very much",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "أين الطبيب؟ Where is the doctor?",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "والدي / أبي My father",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "دواء وعلاج Medicine and treatment",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "تحذير / خطر Warning / danger",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "فهمت كلامك تماماً I understood you",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "TEXTAREA",
+          "name": "",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "About MAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "Skip to contentمُمُعِينMAEENCommunication spaceHomeSign translatorSmart radarCommunication",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Skip to content",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "route": "more",
+      "focus": [
+        {
+          "tag": "SUMMARY",
+          "name": "Letters and cameraPartly available",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Communication phrasesAvailable",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Radar and visual alertsPartly available",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "AccessibilityAvailable",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Prayer timesFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "QiblaFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Smart watchFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Car and CarPlayFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Doctor consultationFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Emergency and SOSFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Notifications and vibrationPartly available",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Speech and name detectionFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Text to signFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SUMMARY",
+          "name": "Other camera tools and flashlightFuture integration",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "route": "settings",
+      "focus": [
+        {
+          "tag": "BUTTON",
+          "name": "العربية ع",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BUTTON",
+          "name": "English En",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "Follow device preferenceReduce motion",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "StandardLarge",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "SELECT",
+          "name": "StandardHigh",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "About MAEEN and this version’s limits",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "About MAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "BODY",
+          "name": "Skip to contentمُمُعِينMAEENCommunication spaceHomeSign translatorSmart radarCommunication",
+          "outline": "none",
+          "outlineWidth": "0px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Skip to content",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "مُمُعِينMAEEN",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Home",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Sign translator",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Smart radar",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        },
+        {
+          "tag": "A",
+          "name": "Communication",
+          "outline": "solid",
+          "outlineWidth": "3px",
+          "hidden": false
+        }
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4200/Maeen/",
+      "method": "GET",
+      "resource": "document",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/index-Baqkn09H.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/index-C8-_0gGH.css",
+      "method": "GET",
+      "resource": "stylesheet",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Translator-DFbnfECs.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/SpeechControls-Dj_aDwq3.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/PageHeading-yHRE4YQI.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/errors-BpsiJa5N.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/status-DPvFMxw2.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Radar-BcJRrK4F.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Dictionary-qnGOSTdk.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/MoreFeatures-BZZgcOrQ.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Settings-6GvbgMs3.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/",
+      "method": "GET",
+      "resource": "document",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/index-Baqkn09H.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/index-C8-_0gGH.css",
+      "method": "GET",
+      "resource": "stylesheet",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Translator-DFbnfECs.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/SpeechControls-Dj_aDwq3.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/PageHeading-yHRE4YQI.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/errors-BpsiJa5N.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/status-DPvFMxw2.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Radar-BcJRrK4F.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Dictionary-qnGOSTdk.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/MoreFeatures-BZZgcOrQ.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    },
+    {
+      "url": "http://127.0.0.1:4200/Maeen/assets/Settings-6GvbgMs3.js",
+      "method": "GET",
+      "resource": "script",
+      "bodyBytes": 0
+    }
+  ],
+  "errors": [],
+  "paint": {
+    "fcpMs": 332,
+    "domContentLoadedMs": 45.20000000298023
+  },
+  "keyboardInteractions": {
+    "typed": "Keyboard review",
+    "cleared": "",
+    "skipWorks": true,
+    "navigationMainFocus": true
+  },
+  "externalRequests": [],
+  "nonGetRequests": []
+}

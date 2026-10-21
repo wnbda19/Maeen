@@ -1,0 +1,32 @@
+[
+  {
+    "route": "home",
+    "count": 42,
+    "failures": [],
+    "min": 6.08
+  },
+  {
+    "route": "translator",
+    "count": 41,
+    "failures": [],
+    "min": 5.79
+  },
+  {
+    "route": "radar",
+    "count": 41,
+    "failures": [],
+    "min": 6.12
+  },
+  {
+    "route": "dictionary",
+    "count": 47,
+    "failures": [],
+    "min": 5.79
+  },
+  {
+    "route": "settings",
+    "count": 44,
+    "failures": [],
+    "min": 5.55
+  }
+]

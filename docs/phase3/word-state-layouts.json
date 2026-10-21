@@ -1,0 +1,50 @@
+[
+  {
+    "lang": "ar",
+    "cameraElements": 0,
+    "dir": "rtl",
+    "overflow": 0,
+    "status": "غير منفذ / يلزم جمع بيانات حقيقية",
+    "width": 375
+  },
+  {
+    "lang": "ar",
+    "cameraElements": 0,
+    "dir": "rtl",
+    "overflow": 0,
+    "status": "غير منفذ / يلزم جمع بيانات حقيقية",
+    "width": 768
+  },
+  {
+    "lang": "ar",
+    "cameraElements": 0,
+    "dir": "rtl",
+    "overflow": 0,
+    "status": "غير منفذ / يلزم جمع بيانات حقيقية",
+    "width": 1440
+  },
+  {
+    "lang": "en",
+    "cameraElements": 0,
+    "dir": "ltr",
+    "overflow": 0,
+    "status": "Not Implemented / Dataset Collection Required",
+    "width": 375
+  },
+  {
+    "lang": "en",
+    "cameraElements": 0,
+    "dir": "ltr",
+    "overflow": 0,
+    "status": "Not Implemented / Dataset Collection Required",
+    "width": 768
+  },
+  {
+    "lang": "en",
+    "cameraElements": 0,
+    "dir": "ltr",
+    "overflow": 0,
+    "status": "Not Implemented / Dataset Collection Required",
+    "width": 1440
+  }
+]

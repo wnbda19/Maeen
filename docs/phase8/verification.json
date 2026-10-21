@@ -1,0 +1,17 @@
+{
+  "offlineRepeat": "PASS",
+  "responsive": 60,
+  "build": "PASS",
+  "deployment": false,
+  "physical": "UNTESTED",
+  "worker": "77f810db44ecf09a",
+  "expandedDemoChecks": 6,
+  "appTestsAfter": 128,
+  "appTestsBefore": 125,
+  "retainedRadarMiss": "radar-miss-attempt.json",
+  "pythonAfter": 36,
+  "accessibilityCombinations": 12,
+  "version": "0.1.0-rc.1",
+  "date": "2026-10-21",
+  "pythonBefore": 36
+}

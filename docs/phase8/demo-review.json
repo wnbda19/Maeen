@@ -1,0 +1,60 @@
+{
+  "checks": [
+    {
+      "ar": true,
+      "width": 375,
+      "overflow": false,
+      "guide": true,
+      "dir": "rtl",
+      "smallButtons": [],
+      "violations": []
+    },
+    {
+      "ar": true,
+      "width": 768,
+      "overflow": false,
+      "guide": true,
+      "dir": "rtl",
+      "smallButtons": [],
+      "violations": []
+    },
+    {
+      "ar": true,
+      "width": 1440,
+      "overflow": false,
+      "guide": true,
+      "dir": "rtl",
+      "smallButtons": [],
+      "violations": []
+    },
+    {
+      "ar": false,
+      "width": 375,
+      "overflow": false,
+      "guide": true,
+      "dir": "ltr",
+      "smallButtons": [],
+      "violations": []
+    },
+    {
+      "ar": false,
+      "width": 768,
+      "overflow": false,
+      "guide": true,
+      "dir": "ltr",
+      "smallButtons": [],
+      "violations": []
+    },
+    {
+      "ar": false,
+      "width": 1440,
+      "overflow": false,
+      "guide": true,
+      "dir": "ltr",
+      "smallButtons": [],
+      "violations": []
+    }
+  ],
+  "modelRequests": [],
+  "physicalDevices": false
+}

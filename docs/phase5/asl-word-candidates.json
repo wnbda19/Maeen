@@ -1,0 +1,77 @@
+[
+  {
+    "gloss": "help",
+    "instances": 22,
+    "signers": 15
+  },
+  {
+    "gloss": "no",
+    "instances": 22,
+    "signers": 18
+  },
+  {
+    "gloss": "yes",
+    "instances": 22,
+    "signers": 17
+  },
+  {
+    "gloss": "doctor",
+    "instances": 19,
+    "signers": 14
+  },
+  {
+    "gloss": "wait",
+    "instances": 18,
+    "signers": 16
+  },
+  {
+    "gloss": "water",
+    "instances": 18,
+    "signers": 15
+  },
+  {
+    "gloss": "police",
+    "instances": 16,
+    "signers": 13
+  },
+  {
+    "gloss": "house",
+    "instances": 15,
+    "signers": 14
+  },
+  {
+    "gloss": "where",
+    "instances": 15,
+    "signers": 15
+  },
+  {
+    "gloss": "thank you",
+    "instances": 14,
+    "signers": 11
+  },
+  {
+    "gloss": "car",
+    "instances": 13,
+    "signers": 12
+  },
+  {
+    "gloss": "hello",
+    "instances": 13,
+    "signers": 13
+  },
+  {
+    "gloss": "hospital",
+    "instances": 13,
+    "signers": 13
+  },
+  {
+    "gloss": "food",
+    "instances": 12,
+    "signers": 12
+  },
+  {
+    "gloss": "pain",
+    "instances": 10,
+    "signers": 9
+  }
+]

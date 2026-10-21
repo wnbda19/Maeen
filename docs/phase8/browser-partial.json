@@ -1,0 +1,110 @@
+{
+  "physicalDevices": false,
+  "observations": [],
+  "startedAt": "2026-10-21T18:37:01.161Z",
+  "installability": {
+    "installabilityErrors": [
+      {
+        "errorId": "in-incognito",
+        "errorArguments": []
+      }
+    ]
+  },
+  "manifest": {
+    "url": "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/Maeen/\",\n  \"name\": \"مُعِين | MAEEN\",\n  \"short_name\": \"مُعِين\",\n  \"lang\": \"ar\",\n  \"dir\": \"rtl\",\n  \"start_url\": \"./#home\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"any\",\n  \"background_color\": \"#091b19\",\n  \"theme_color\": \"#0b2925\",\n  \"icons\": [\n    {\n      \"src\": \"./icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-maskable-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"maskable\"\n    },\n    {\n      \"src\": \"./icon.svg\",\n      \"sizes\": \"any\",\n      \"type\": \"image/svg+xml\",\n      \"purpose\": \"any\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:4200/Maeen/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(9,27,25,1)",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon.svg",
+          "sizes": "0x0",
+          "type": "image/svg+xml"
+        }
+      ],
+      "id": "http://127.0.0.1:4200/Maeen/",
+      "name": "مُعِين | MAEEN",
+      "orientation": "ANY",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:4200/Maeen/",
+      "startUrl": "http://127.0.0.1:4200/Maeen/#home",
+      "themeColor": "rgba(11,41,37,1)"
+    }
+  },
+  "initial": {
+    "navigationMs": 47.80000000447035,
+    "fcpMs": 360,
+    "aiRequests": []
+  },
+  "onlineCamera": {
+    "arslMs": 3100,
+    "aslMs": 483
+  },
+  "rearCameraRequest": "environment",
+  "onlineRadarReadyMs": 1186,
+  "lastPageText": "Visual sound awareness\nSmart sound radar\n\nExperimental on-device environmental sound recognition. It cannot determine direction or distance and does not replace alarm systems.\n\nYAMNet sound recognition with microphone-level fallback.\n\nSmart radar\nListening locally\n-100\ndBFS\nSignal level (dBFS)\n\nListening for selected sounds\n\nListening locally\n\nStart microphone\nStop\n\nThe rings follow signal strength; they do not indicate a sound’s location.\n\nSound recognition\nUse on-device YAMNet\n\nRecognition running locally\n\nConfidence threshold: 65%\nSound categories\nSound categories\nSmoke / fire alarm\nEmergency siren\nVehicle horn\nDoorbell\nKnocking\nTelephone ringing\nShattering\nBaby crying\nDog barking\nShouting / screaming\nVibration where supported\nEnable notifications\n\nBrowser notifications unavailable or denied. Visible alerts remain available.\n\nAudio stays in device memory and is never saved or uploaded. Short or distant sounds may be missed.\n\nSound history\nClear\n\nNo confirmed sounds yet\n\nYAMNet · load 301 ms · inference 45 ms\n\nAlert sensitivity\nAlert threshold (dBFS)\n-25 dBFS\nMore sensitive\nLess sensitive\n\nA threshold closer to −80 detects quieter signals. This is a digital reading, not calibrated environmental sound pressure.\n\nSession history\nClear\n\nAn alert is added when the threshold is exceeded, with at least five seconds between alerts.\n\nNo alerts yet\n\nAlerts are model estimates, not certified safety measurements. Shattering does not confirm the material is glass.\nThis is not an emergency alarm. Monitoring stops when you leave this page or hide the app.",
+  "lastResources": {
+    "liveTracks": 1,
+    "workers": 1,
+    "maxWorkers": 1,
+    "openAudioContexts": 1,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "lastAudio": [
+    {
+      "kind": "audio",
+      "state": "live",
+      "muted": false,
+      "settings": {
+        "autoGainControl": false,
+        "channelCount": 2,
+        "deviceId": "default",
+        "echoCancellation": false,
+        "groupId": "60ec40e3cd17fe7c4511a5278674ed1ced2b4084efea2322c2db3c2b7f0a5608",
+        "latency": 0.01,
+        "noiseSuppression": false,
+        "sampleRate": 44100,
+        "sampleSize": 16,
+        "voiceIsolation": false
+      }
+    }
+  ],
+  "error": "TimeoutError: locator.waitFor: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('heading', { name: 'Sound history', exact: true }).locator('..').locator('..').getByText('Dog barking', { exact: true }) to be visible\u001b[22m\n"
+}

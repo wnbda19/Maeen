@@ -1,0 +1,305 @@
+{
+  "version": "0.1.0-rc.1",
+  "date": "2026-10-21",
+  "archive": "C:\\Users\\Mohammed\\Desktop\\الشمري\\Maeen\\release\\maeen-0.1.0-rc.1-LOCAL-REVIEW.zip",
+  "bytes": 32539855,
+  "sha256": "814b5ef73a79b78d78c31e1eee1b60b682fc553b6b01169018fc76ef06982e20",
+  "baseCommit": "489670aebacc835577316d9591e70e21db9c1ee2",
+  "committedCandidate": false,
+  "deployment": false,
+  "distribution": "LOCAL REVIEW ONLY / RIGHTS HOLD",
+  "files": {
+    "Maeen/asset-manifest.json": {
+      "bytes": 1503,
+      "sha256": "1a2f348d39a81b8177c08de6d32db7498fb6e25f05b9e975d0e8a136615b913c"
+    },
+    "Maeen/assets/Dictionary-qnGOSTdk.js": {
+      "bytes": 3210,
+      "sha256": "cadb225f81056eaa9650699ebfa3a53d12fcc5b9010c0038b26e6ada02ecb26f"
+    },
+    "Maeen/assets/MoreFeatures-BZZgcOrQ.js": {
+      "bytes": 9817,
+      "sha256": "5a3181dd7145e43606d38800de3ce641b3c1e92e3745c7a890f3d05fecf1cecc"
+    },
+    "Maeen/assets/PageHeading-yHRE4YQI.js": {
+      "bytes": 328,
+      "sha256": "d5a50c178ab9cf58fb084d77310cbd118851ce0783918b40cd0da8021519c9e9"
+    },
+    "Maeen/assets/Radar-BcJRrK4F.js": {
+      "bytes": 19140,
+      "sha256": "55ca889c28d68070f36f3e8b77b3b6e9f4dd064ef6a4fbda4e155670a4870d00"
+    },
+    "Maeen/assets/Settings-6GvbgMs3.js": {
+      "bytes": 4122,
+      "sha256": "91c536e63064ec683ab018a53a8fd5b80caf088214fcbd6d4f60bd32355b0011"
+    },
+    "Maeen/assets/SpeechControls-Dj_aDwq3.js": {
+      "bytes": 1387,
+      "sha256": "99e1c7a4cca6493f68108132afb8cb6476d5725225e30eccffff214f22e18698"
+    },
+    "Maeen/assets/Translator-DFbnfECs.js": {
+      "bytes": 157734,
+      "sha256": "52e5a7b74de6f3a9132af9407a28ad8e2af1243ca6ef89b2d10921b3eca503b8"
+    },
+    "Maeen/assets/asl-ZfdJDbWH.js": {
+      "bytes": 1797,
+      "sha256": "a3f071a4f4d8b92a94f29519acd8e7ea8ee6546ca0ca5a75063651a452e88cc4"
+    },
+    "Maeen/assets/audio.worker-CA51gAsv.js": {
+      "bytes": 50100,
+      "sha256": "52e9e8e42ea77e0ef6a1cd293568cf273d691d2845e7ab4878df2b3b9f9d9240"
+    },
+    "Maeen/assets/errors-BpsiJa5N.js": {
+      "bytes": 1475,
+      "sha256": "a9692cede2d0ec3340b7f570bd4bd70888397dee103fe60d266b2fc04aafbb5a"
+    },
+    "Maeen/assets/forest-Dzq63Koy.js": {
+      "bytes": 1766,
+      "sha256": "f58064412ffd66e9de20e12c0194dc1da66cbde51e76827c8dc690b1dc78334d"
+    },
+    "Maeen/assets/index-Baqkn09H.js": {
+      "bytes": 241626,
+      "sha256": "eb9f17a79cb8c0023bd8891e46fed721bd3c6f6d055457d114668cf9cd0eab4f"
+    },
+    "Maeen/assets/index-C8-_0gGH.css": {
+      "bytes": 34466,
+      "sha256": "a4f5d5de6277f4b8aaeae02b87b932c29d1013c763d0099d66b22ca91d591d7b"
+    },
+    "Maeen/assets/load-JR_Hnx_J.js": {
+      "bytes": 453,
+      "sha256": "e8bde984b2666219ab85bdf51cd6f36d09144af902117877925076b4b1d24203"
+    },
+    "Maeen/assets/status-DPvFMxw2.js": {
+      "bytes": 270,
+      "sha256": "4b1d025eb749f6b17886a5341ddbd81848446ef2f897434a6757afef2c251042"
+    },
+    "Maeen/audio-capture.js": {
+      "bytes": 1105,
+      "sha256": "1387b1dee61e57d9fa7f335ce39622355b2f7d9586a05eeefca719d947815ade"
+    },
+    "Maeen/audio-models/LICENSE": {
+      "bytes": 11512,
+      "sha256": "5b17814bf0de8cf65069bc6d7cc38cff19fcaa864d243423ad3ef3db01b52385"
+    },
+    "Maeen/audio-models/NOTICE.md": {
+      "bytes": 691,
+      "sha256": "5d3946ae17d99ff2981afc46bd0f074073a7e5148b45676c44db155f2d675192"
+    },
+    "Maeen/audio-models/labels.txt": {
+      "bytes": 6230,
+      "sha256": "8e1267a120c1932b7273c0d0e0c5529edbb9a35512b437b1c8982baa59047051"
+    },
+    "Maeen/audio-models/provenance.json": {
+      "bytes": 705,
+      "sha256": "55b766a7262d57e6f4cdae1ad8a5ce6c97ebc97aa1a430073fea231a99d8bf8d"
+    },
+    "Maeen/audio-models/yamnet.tflite": {
+      "bytes": 4126810,
+      "sha256": "4d8b4a53282dc83ef04e3e7dbc4fbc98082e34e44ed798e16c3a0cdd4c584faf"
+    },
+    "Maeen/icon-180.png": {
+      "bytes": 6182,
+      "sha256": "143b74e2c803fae96b9236a9260b9adb021630d58d3004a0a0ebebdc89cbc71e"
+    },
+    "Maeen/icon-192.png": {
+      "bytes": 6696,
+      "sha256": "b0ebd42efe6c01a4eb25aefbddb1d8ad567f40a93879f312e6acb03f096fbf59"
+    },
+    "Maeen/icon-512.png": {
+      "bytes": 23387,
+      "sha256": "0530d7e2a767f985c20b2de344e857abce60bc95af5f66e3b0a8c4f4ae5d2275"
+    },
+    "Maeen/icon-maskable-512.png": {
+      "bytes": 17970,
+      "sha256": "40a04d6c1d6db91f55003ae1aad1a4a653586dee104698b6324a610272efab0d"
+    },
+    "Maeen/icon.svg": {
+      "bytes": 444,
+      "sha256": "7f40c28c5df9c07e5a93fb0f38caa13c777e16964a12a9b10d8baefad62b5bdd"
+    },
+    "Maeen/index.html": {
+      "bytes": 1819,
+      "sha256": "c39690fb2c70e33889141c943eef3b0da56de1598952f578bf037a59c0073e9e"
+    },
+    "Maeen/manifest.webmanifest": {
+      "bytes": 782,
+      "sha256": "bc752b121392bdf70654a2240d9bfb30ca72d433ec1bf51eb25ce1fb698cd16a"
+    },
+    "Maeen/mediapipe/wasm/one": {
+      "bytes": 2,
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    "Maeen/mediapipe/wasm/vision_wasm_internal.js": {
+      "bytes": 343268,
+      "sha256": "02b9c91fc4946a1b965abe1c55e453fc0627dfa8d4a3d9c626c7c3043d80a1d0"
+    },
+    "Maeen/mediapipe/wasm/vision_wasm_internal.wasm": {
+      "bytes": 13519922,
+      "sha256": "0e101a010e262ef8e78f22e3c95b60a9705fd06962753c9acd6356d9fb56b7bd"
+    },
+    "Maeen/mediapipe/wasm/vision_wasm_module_internal.js": {
+      "bytes": 343302,
+      "sha256": "b9d107858a9247ef12953c284d52edee308c09400093c2df7ca6bdd5c6dc71c4"
+    },
+    "Maeen/mediapipe/wasm/vision_wasm_module_internal.wasm": {
+      "bytes": 13519940,
+      "sha256": "3b57e4b55ac6346bf940212e3e11250b308a6a474077385e2f527b119cf74525"
+    },
+    "Maeen/mediapipe/wasm/vision_wasm_nosimd_internal.js": {
+      "bytes": 343062,
+      "sha256": "863ce7f5a84c5ab3091d078d0d6641c374bb4074f245a9242be93f300916b3d9"
+    },
+    "Maeen/mediapipe/wasm/vision_wasm_nosimd_internal.wasm": {
+      "bytes": 12627509,
+      "sha256": "c9b1b69bb87baf9e529254d8559dcbcf4c5a9c0eda84f56a12f17d675335ec9c"
+    },
+    "Maeen/model-catalog.json": {
+      "bytes": 9663,
+      "sha256": "fe96754998ab1beec0af8fea69bb29dbd67e6a51270896a81df716b11a9b8618"
+    },
+    "Maeen/models/arsl-forest.bin": {
+      "bytes": 847916,
+      "sha256": "29c89e7e6e8e39ba5fb6c63dd30f4e0bd58e117aa0a4e6093aa0644582b9cf5c"
+    },
+    "Maeen/models/arsl-labels.json": {
+      "bytes": 497,
+      "sha256": "b067a6246d92daf5953c8cdf98b5dd9925d562c7e6adebaf3afbc462a608388f"
+    },
+    "Maeen/models/hand_landmarker.task": {
+      "bytes": 7819105,
+      "sha256": "fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1"
+    },
+    "Maeen/runtime/audio/audio_wasm_internal.js": {
+      "bytes": 154740,
+      "sha256": "e21cb10596601d68e4405e6483232b00cc500f352b1756c8267746aba9f6b445"
+    },
+    "Maeen/runtime/audio/audio_wasm_internal.wasm": {
+      "bytes": 6322610,
+      "sha256": "a793a80363c2098eecf42b210b3f1721751bf80e95353023247c1f7932e77b17"
+    },
+    "Maeen/runtime/audio/audio_wasm_nosimd_internal.js": {
+      "bytes": 154593,
+      "sha256": "c258b51570e9feda9beb14ac1bf49d5c83d4c5a74d22018230f1e7a35eff0530"
+    },
+    "Maeen/runtime/audio/audio_wasm_nosimd_internal.wasm": {
+      "bytes": 6165480,
+      "sha256": "3a63688dcdf64a16d79680a9dab1a74853b5bea95ef9182c4ba35ff2ae37f687"
+    },
+    "Maeen/runtime/vision/vision_wasm_internal.js": {
+      "bytes": 204816,
+      "sha256": "6f6b86509cf9e163ea1cfec7edc8cf53732699c04781e4c21c557c1ba402310e"
+    },
+    "Maeen/runtime/vision/vision_wasm_internal.wasm": {
+      "bytes": 11453626,
+      "sha256": "cb3ec20026a9aecc2a81a93c25630ceb5389297ddb7a5f0bd61dd09cde606b9b"
+    },
+    "Maeen/runtime/vision/vision_wasm_nosimd_internal.js": {
+      "bytes": 204669,
+      "sha256": "9f8fc960e363f0fb2f42f7937b97ae9cf9a5630490f71031fa90caa9bb121938"
+    },
+    "Maeen/runtime/vision/vision_wasm_nosimd_internal.wasm": {
+      "bytes": 10647962,
+      "sha256": "924274fcd5ac8985f6570a8573e7971b7bd2d580ba1b8f3beb0ba8f95db6347c"
+    },
+    "Maeen/sign-models/asl-static/NOTICE.md": {
+      "bytes": 1646,
+      "sha256": "cd609fcef1fb9446b675f04726df11e0025f487c545f98511844d97da1b57d11"
+    },
+    "Maeen/sign-models/asl-static/labels.json": {
+      "bytes": 348,
+      "sha256": "4479c589e6478bd31e3c58f6f88ef147e2bf919d423542febfcb3d82eaaad4b2"
+    },
+    "Maeen/sign-models/asl-static/model.json": {
+      "bytes": 369575,
+      "sha256": "82443cb9faecdbcbfe5815ab672ba6753ab03dad902757b8a6b466264f40ec8e"
+    },
+    "Maeen/sw.js": {
+      "bytes": 9587,
+      "sha256": "89710e5197380a2887fca826a474922bf5061830ba49fbd6f4c1d94a01b19c1a"
+    },
+    "RELEASE_NOTES/ACCESSIBILITY.md": {
+      "bytes": 1725,
+      "sha256": "b35007bef372d45da335323ecef0856a5e8131171c12571a7c94d1cf90aa8dac"
+    },
+    "RELEASE_NOTES/ACCESSIBILITY_VALIDATION.md": {
+      "bytes": 3397,
+      "sha256": "9fd3a0388100fe17cef9399ee3738cf588bf6ed1a9fd207c9a84e46912aa23f1"
+    },
+    "RELEASE_NOTES/ARSL_LIVE_VALIDATION.md": {
+      "bytes": 1596,
+      "sha256": "90eeee497a8372dea18606f877630613602b54a04cc2c8e77dabfec79e16ebb6"
+    },
+    "RELEASE_NOTES/ASL_LIVE_VALIDATION.md": {
+      "bytes": 1157,
+      "sha256": "d104b14b99e57c56cbd1441032c9fa6d830390da251899debd0c6957c28d7627"
+    },
+    "RELEASE_NOTES/COMPETITION_DEMO_SCRIPT.md": {
+      "bytes": 3883,
+      "sha256": "faca79012603c7687aa8f6bb6d7806e1b3af88b0d3698d55eae78d45a1f82116"
+    },
+    "RELEASE_NOTES/COMPETITION_PITCH.md": {
+      "bytes": 4316,
+      "sha256": "b068fa7213378c605487b8a593f7a966ee4959e28881d8295ba72e56ce454118"
+    },
+    "RELEASE_NOTES/FINAL_FEATURE_MATRIX.md": {
+      "bytes": 3585,
+      "sha256": "d9414dec8b06436b751e93c006121f8b23f57805509ed4df10c03e1f4de069a2"
+    },
+    "RELEASE_NOTES/JUDGE_QA.md": {
+      "bytes": 4486,
+      "sha256": "88199c756cf9930937a45246620c35ac692a2ee4159e98ef030abca2710b7319"
+    },
+    "RELEASE_NOTES/MODEL_CARD_ARABIC_WORDS.md": {
+      "bytes": 2094,
+      "sha256": "5347e4ca2310a79362739e287979d5e14164e66c260717d92016d9177edb1770"
+    },
+    "RELEASE_NOTES/MODEL_CARD_ARSL.md": {
+      "bytes": 2214,
+      "sha256": "c21e94eb13c9346dcee87ddfe1d0862d5f8ea91d5f6dd5729efc2947d0da5b67"
+    },
+    "RELEASE_NOTES/MODEL_CARD_ASL.md": {
+      "bytes": 2480,
+      "sha256": "0018596c9f03336f7b97067672944721b1328c200f801018d92ae9264c5754da"
+    },
+    "RELEASE_NOTES/MODEL_CARD_SMART_RADAR.md": {
+      "bytes": 2527,
+      "sha256": "a9e710141b60bf9eb2b46abce63449a7375b61d4352432d4def2073f2712b62a"
+    },
+    "RELEASE_NOTES/PRIVACY.md": {
+      "bytes": 2624,
+      "sha256": "01d0d8379367e0c65d04ec2a97f543b104a5a5076f6ce0c4fa39062c556b1e24"
+    },
+    "RELEASE_NOTES/PWA_OFFLINE_RELIABILITY.md": {
+      "bytes": 4359,
+      "sha256": "fac9bf5cb7baef7837fe8a7805c924a597f893da32680a9114787baac41dba0c"
+    },
+    "RELEASE_NOTES/README.md": {
+      "bytes": 5627,
+      "sha256": "46ce746ac81159a5d234e2299461075855b44546c689abfb234461e5523343c8"
+    },
+    "RELEASE_NOTES/RELEASE_CANDIDATE.md": {
+      "bytes": 5105,
+      "sha256": "c0d588680d37cd3c7d171b090d8170539a742017b38fe47f0386a3267df85a78"
+    },
+    "RELEASE_NOTES/SECURITY_REVIEW.md": {
+      "bytes": 3518,
+      "sha256": "2083fb7e9f750936a02e5c60bf98d4bbebad8a6f7b8b1175ab541fbd71b2c098"
+    },
+    "RELEASE_NOTES/SMART_RADAR_REAL_WORLD_VALIDATION.md": {
+      "bytes": 2430,
+      "sha256": "8bd61e11d9ff3f1520c7efc2528dbda854e75a32f16d55c3a111d7d699a5ec77"
+    },
+    "RELEASE_NOTES/STABILITY_REPORT.md": {
+      "bytes": 3394,
+      "sha256": "ad11a64b0fb77c10a64603721fc763d925dd839c9ef80365ddea6f11629bf414"
+    },
+    "RELEASE_NOTES/TECHNICAL_ARCHITECTURE.md": {
+      "bytes": 3607,
+      "sha256": "2d65ca9a14d8942eea34b045a58b94a649721346a5070769f6a5578a9b7835d2"
+    },
+    "RELEASE_NOTES/VERIFIED_METRICS.md": {
+      "bytes": 4204,
+      "sha256": "8ef7e1381a72d767bf0ca66e7fd246d21dae79a20f63a5f098fd815bba138008"
+    }
+  }
+}

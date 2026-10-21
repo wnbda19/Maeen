@@ -1,0 +1,13 @@
+# MAEEN privacy validation
+
+Finalized for Phase 8 candidate 0.1.0-rc.1, 21 October 2026, using Phase 7 review and release regression. Scope: current local production build and reviewed application source. No deployment occurred. The public camera preview is not automatically recorded or persistently stored; it is distinct from the intentional internal collector below.
+
+- Public Translator obtains camera frames after user action, extracts hand landmarks and runs ArSL/ASL locally. Application code does not upload frames or landmarks.
+- Smart Radar obtains microphone audio after user action, keeps short buffers in memory and runs YAMNet in a local worker. No application audio recording/upload endpoint exists in the reviewed path.
+- The internal collector intentionally records video locally in IndexedDB after consent. It is separate from the public app; selected clips/metadata are exported by the operator. Do not claim that MAEEN never stores video: the collector explicitly does. It does not automatically upload clips.
+- Public preferences and interface language persist in localStorage. Public model/runtime/shell bytes persist in Cache Storage; no personal data is added to the service-worker allowlist. Recognition buffers/history are application state rather than server records.
+- Optional text-to-speech delegates the selected message to the browser/OS speech provider. The code selects an Arabic voice but does not require `localService`; that provider may use a network service. Do not promise all speech processing is local. Notifications can reveal an event title on the device lock screen or OS notification center.
+- No analytics SDK, telemetry sender, application WebSocket or camera/audio upload was found in the reviewed source. The browser route audit observed only same-origin GETs, with no request bodies or external requests. This route audit did not exercise every browser/OS speech provider or collector export path; it is not proof about browser vendor telemetry.
+- Model downloads, updates and explicit official-reference navigation use network access. An external reference site has its own privacy behavior. HTTPS/local-host permissions and browser controls still apply. Clearing site data removes preferences, caches and collector recordings; export authorized recordings before clearing.
+
+Evidence: `docs/phase7/browser-accessibility.json`, source in `app/src/services`, `app/src/internal/Collector.tsx`, and scoped worker generator. Current browser fixture inference and prior offline tests support local model processing; no absolute claim is made about unrelated platform services.

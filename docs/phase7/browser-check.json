@@ -1,0 +1,1979 @@
+{
+  "physicalDevices": false,
+  "observations": [],
+  "startedAt": "2026-10-21T18:13:03.824Z",
+  "installability": {
+    "installabilityErrors": [
+      {
+        "errorId": "in-incognito",
+        "errorArguments": []
+      }
+    ]
+  },
+  "manifest": {
+    "url": "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/Maeen/\",\n  \"name\": \"مُعِين | MAEEN\",\n  \"short_name\": \"مُعِين\",\n  \"lang\": \"ar\",\n  \"dir\": \"rtl\",\n  \"start_url\": \"./#home\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"any\",\n  \"background_color\": \"#091b19\",\n  \"theme_color\": \"#0b2925\",\n  \"icons\": [\n    {\n      \"src\": \"./icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-maskable-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"maskable\"\n    },\n    {\n      \"src\": \"./icon.svg\",\n      \"sizes\": \"any\",\n      \"type\": \"image/svg+xml\",\n      \"purpose\": \"any\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:4200/Maeen/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(9,27,25,1)",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon.svg",
+          "sizes": "0x0",
+          "type": "image/svg+xml"
+        }
+      ],
+      "id": "http://127.0.0.1:4200/Maeen/",
+      "name": "مُعِين | MAEEN",
+      "orientation": "ANY",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:4200/Maeen/",
+      "startUrl": "http://127.0.0.1:4200/Maeen/#home",
+      "themeColor": "rgba(11,41,37,1)"
+    }
+  },
+  "initial": {
+    "navigationMs": 63.20000000298023,
+    "aiRequests": []
+  },
+  "onlineCamera": {
+    "arslMs": 3112,
+    "aslMs": 475
+  },
+  "rearCameraRequest": "environment",
+  "onlineRadarReadyMs": 1217,
+  "radarMetrics": "YAMNet · load 333 ms · inference 47 ms",
+  "modelResourceTimings": [
+    {
+      "name": "models/arsl-forest.bin",
+      "durationMs": 33.100000001490116,
+      "bytes": 847916
+    },
+    {
+      "name": "models/arsl-labels.json",
+      "durationMs": 12.099999994039536,
+      "bytes": 497
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 22.899999998509884,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 191.89999999850988,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 159.5,
+      "bytes": 7819105
+    },
+    {
+      "name": "sign-models/asl-static/model.json",
+      "durationMs": 22.700000002980232,
+      "bytes": 369575
+    },
+    {
+      "name": "sign-models/asl-static/labels.json",
+      "durationMs": 7.600000001490116,
+      "bytes": 348
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 2.399999998509884,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 64.20000000298023,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 45.20000000298023,
+      "bytes": 7819105
+    },
+    {
+      "name": "sign-models/asl-static/model.json",
+      "durationMs": 4.399999998509884,
+      "bytes": 369575
+    },
+    {
+      "name": "sign-models/asl-static/labels.json",
+      "durationMs": 4.299999997019768,
+      "bytes": 348
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 3.600000001490116,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 67.30000000447035,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 42.80000000447035,
+      "bytes": 7819105
+    }
+  ],
+  "onlineNetworkCounts": {
+    "/Maeen/": 2,
+    "/Maeen/assets/index-DRvahtyu.js": 4,
+    "/Maeen/assets/index-DIJ2jPAq.css": 4,
+    "/Maeen/sw.js": 2,
+    "/Maeen/index.html": 2,
+    "/Maeen/icon.svg": 2,
+    "/Maeen/icon-180.png": 2,
+    "/Maeen/icon-192.png": 2,
+    "/Maeen/icon-512.png": 2,
+    "/Maeen/icon-maskable-512.png": 2,
+    "/Maeen/manifest.webmanifest": 2,
+    "/Maeen/model-catalog.json": 2,
+    "/Maeen/audio-capture.js": 2,
+    "/Maeen/assets/asl-ZfdJDbWH.js": 2,
+    "/Maeen/assets/audio.worker-CA51gAsv.js": 2,
+    "/Maeen/assets/Dictionary-GY7ruW3W.js": 2,
+    "/Maeen/assets/errors-CD28HHx3.js": 2,
+    "/Maeen/assets/forest-Dzq63Koy.js": 2,
+    "/Maeen/assets/load-JR_Hnx_J.js": 2,
+    "/Maeen/assets/PageHeading-CWm5FMtn.js": 2,
+    "/Maeen/assets/MoreFeatures-DKXhdErp.js": 2,
+    "/Maeen/assets/Radar-DgimgqSu.js": 2,
+    "/Maeen/assets/Settings-0fEoJJVu.js": 2,
+    "/Maeen/assets/SpeechControls-CDoiSEtL.js": 2,
+    "/Maeen/assets/status-DkuhSRMj.js": 2,
+    "/Maeen/assets/Translator-bf5_MoAs.js": 2,
+    "/Maeen/models/arsl-forest.bin": 1,
+    "/Maeen/models/arsl-labels.json": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.js": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.wasm": 1,
+    "/Maeen/models/hand_landmarker.task": 1,
+    "/Maeen/sign-models/asl-static/model.json": 1,
+    "/Maeen/sign-models/asl-static/labels.json": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.js": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.wasm": 1,
+    "/Maeen/audio-models/yamnet.tflite": 1
+  },
+  "onlineResources": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "offlineReload": true,
+  "offlineRadarReadyMs": 328,
+  "offlineCamera": {
+    "arslMs": 849,
+    "aslMs": 517
+  },
+  "activeCameraOrientation": [
+    {
+      "width": 375,
+      "height": 812,
+      "resources": {
+        "liveTracks": 1,
+        "workers": 0,
+        "maxWorkers": 1,
+        "openAudioContexts": 0,
+        "listeners": [
+          [
+            "document:visibilitychange",
+            2
+          ],
+          [
+            "window:pagehide",
+            1
+          ],
+          [
+            "document:freeze",
+            1
+          ],
+          [
+            "window:maeen:shutdown",
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "width": 812,
+      "height": 375,
+      "resources": {
+        "liveTracks": 1,
+        "workers": 0,
+        "maxWorkers": 1,
+        "openAudioContexts": 0,
+        "listeners": [
+          [
+            "document:visibilitychange",
+            2
+          ],
+          [
+            "window:pagehide",
+            1
+          ],
+          [
+            "document:freeze",
+            1
+          ],
+          [
+            "window:maeen:shutdown",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "offlineNetworkCounts": {
+    "/Maeen/": 2,
+    "/Maeen/assets/index-DRvahtyu.js": 4,
+    "/Maeen/assets/index-DIJ2jPAq.css": 4,
+    "/Maeen/sw.js": 5,
+    "/Maeen/index.html": 2,
+    "/Maeen/icon.svg": 2,
+    "/Maeen/icon-180.png": 2,
+    "/Maeen/icon-192.png": 2,
+    "/Maeen/icon-512.png": 2,
+    "/Maeen/icon-maskable-512.png": 2,
+    "/Maeen/manifest.webmanifest": 2,
+    "/Maeen/model-catalog.json": 2,
+    "/Maeen/audio-capture.js": 2,
+    "/Maeen/assets/asl-ZfdJDbWH.js": 2,
+    "/Maeen/assets/audio.worker-CA51gAsv.js": 2,
+    "/Maeen/assets/Dictionary-GY7ruW3W.js": 2,
+    "/Maeen/assets/errors-CD28HHx3.js": 2,
+    "/Maeen/assets/forest-Dzq63Koy.js": 2,
+    "/Maeen/assets/load-JR_Hnx_J.js": 2,
+    "/Maeen/assets/PageHeading-CWm5FMtn.js": 2,
+    "/Maeen/assets/MoreFeatures-DKXhdErp.js": 2,
+    "/Maeen/assets/Radar-DgimgqSu.js": 2,
+    "/Maeen/assets/Settings-0fEoJJVu.js": 2,
+    "/Maeen/assets/SpeechControls-CDoiSEtL.js": 2,
+    "/Maeen/assets/status-DkuhSRMj.js": 2,
+    "/Maeen/assets/Translator-bf5_MoAs.js": 2,
+    "/Maeen/models/arsl-forest.bin": 1,
+    "/Maeen/models/arsl-labels.json": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.js": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.wasm": 1,
+    "/Maeen/models/hand_landmarker.task": 1,
+    "/Maeen/sign-models/asl-static/model.json": 1,
+    "/Maeen/sign-models/asl-static/labels.json": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.js": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.wasm": 1,
+    "/Maeen/audio-models/yamnet.tflite": 1
+  },
+  "modelRedownloads": [],
+  "responsive": [
+    {
+      "width": 375,
+      "height": 812,
+      "overflow": false
+    },
+    {
+      "width": 812,
+      "height": 375,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false
+    }
+  ],
+  "heapBefore": {
+    "usedSize": 4984336,
+    "totalSize": 5619712,
+    "embedderHeapUsedSize": 1577472,
+    "backingStorageSize": 437711
+  },
+  "cycles": [
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    }
+  ],
+  "cycleDurationMs": 328812,
+  "heapAfter": {
+    "usedSize": 6240268,
+    "totalSize": 6668288,
+    "embedderHeapUsedSize": 1905168,
+    "backingStorageSize": 700031
+  },
+  "resourcesAfterCycles": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        1
+      ],
+      [
+        "window:pagehide",
+        0
+      ],
+      [
+        "document:freeze",
+        0
+      ],
+      [
+        "window:maeen:shutdown",
+        0
+      ]
+    ]
+  },
+  "listenerBaseline": [
+    [
+      "document:visibilitychange",
+      2
+    ],
+    [
+      "window:pagehide",
+      1
+    ],
+    [
+      "document:freeze",
+      1
+    ],
+    [
+      "window:maeen:shutdown",
+      1
+    ]
+  ],
+  "browserFreezeEvents": 0,
+  "freezeHandlerSimulated": true,
+  "cameraAfterFreeze": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "micAfterInterruption": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "corruptionRejected": true,
+  "onlineRepair": true,
+  "updateReload": true,
+  "cache": [
+    {
+      "name": "maeen-%2FMaeen%2F-model-assets-v1",
+      "urls": [
+        "http://127.0.0.1:4200/Maeen/__verified/b067a6246d92daf5953c8cdf98b5dd9925d562c7e6adebaf3afbc462a608388f/models/arsl-labels.json",
+        "http://127.0.0.1:4200/Maeen/__verified/29c89e7e6e8e39ba5fb6c63dd30f4e0bd58e117aa0a4e6093aa0644582b9cf5c/models/arsl-forest.bin",
+        "http://127.0.0.1:4200/Maeen/__verified/6f6b86509cf9e163ea1cfec7edc8cf53732699c04781e4c21c557c1ba402310e/runtime/vision/vision_wasm_internal.js",
+        "http://127.0.0.1:4200/Maeen/__verified/cb3ec20026a9aecc2a81a93c25630ceb5389297ddb7a5f0bd61dd09cde606b9b/runtime/vision/vision_wasm_internal.wasm",
+        "http://127.0.0.1:4200/Maeen/__verified/fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1/models/hand_landmarker.task",
+        "http://127.0.0.1:4200/Maeen/__verified/4479c589e6478bd31e3c58f6f88ef147e2bf919d423542febfcb3d82eaaad4b2/sign-models/asl-static/labels.json",
+        "http://127.0.0.1:4200/Maeen/__verified/c258b51570e9feda9beb14ac1bf49d5c83d4c5a74d22018230f1e7a35eff0530/runtime/audio/audio_wasm_nosimd_internal.js",
+        "http://127.0.0.1:4200/Maeen/__verified/3a63688dcdf64a16d79680a9dab1a74853b5bea95ef9182c4ba35ff2ae37f687/runtime/audio/audio_wasm_nosimd_internal.wasm",
+        "http://127.0.0.1:4200/Maeen/__verified/4d8b4a53282dc83ef04e3e7dbc4fbc98082e34e44ed798e16c3a0cdd4c584faf/audio-models/yamnet.tflite",
+        "http://127.0.0.1:4200/Maeen/__verified/82443cb9faecdbcbfe5815ab672ba6753ab03dad902757b8a6b466264f40ec8e/sign-models/asl-static/model.json"
+      ]
+    },
+    {
+      "name": "maeen-%2FMaeen%2F-shell-a25dc61762739472-test2",
+      "urls": [
+        "http://127.0.0.1:4200/Maeen/index.html",
+        "http://127.0.0.1:4200/Maeen/icon.svg",
+        "http://127.0.0.1:4200/Maeen/icon-180.png",
+        "http://127.0.0.1:4200/Maeen/icon-192.png",
+        "http://127.0.0.1:4200/Maeen/icon-512.png",
+        "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+        "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+        "http://127.0.0.1:4200/Maeen/model-catalog.json",
+        "http://127.0.0.1:4200/Maeen/assets/index-DIJ2jPAq.css",
+        "http://127.0.0.1:4200/Maeen/audio-capture.js",
+        "http://127.0.0.1:4200/Maeen/assets/asl-ZfdJDbWH.js",
+        "http://127.0.0.1:4200/Maeen/assets/audio.worker-CA51gAsv.js",
+        "http://127.0.0.1:4200/Maeen/assets/Dictionary-GY7ruW3W.js",
+        "http://127.0.0.1:4200/Maeen/assets/errors-CD28HHx3.js",
+        "http://127.0.0.1:4200/Maeen/assets/forest-Dzq63Koy.js",
+        "http://127.0.0.1:4200/Maeen/assets/load-JR_Hnx_J.js",
+        "http://127.0.0.1:4200/Maeen/assets/MoreFeatures-DKXhdErp.js",
+        "http://127.0.0.1:4200/Maeen/assets/PageHeading-CWm5FMtn.js",
+        "http://127.0.0.1:4200/Maeen/assets/Radar-DgimgqSu.js",
+        "http://127.0.0.1:4200/Maeen/assets/Settings-0fEoJJVu.js",
+        "http://127.0.0.1:4200/Maeen/assets/SpeechControls-CDoiSEtL.js",
+        "http://127.0.0.1:4200/Maeen/assets/status-DkuhSRMj.js",
+        "http://127.0.0.1:4200/Maeen/assets/Translator-bf5_MoAs.js",
+        "http://127.0.0.1:4200/Maeen/assets/index-DRvahtyu.js"
+      ]
+    }
+  ],
+  "errors": [],
+  "neverCachedModelFailure": true,
+  "neverCachedRadarFallback": true,
+  "normalProfileInstallability": {
+    "installabilityErrors": []
+  },
+  "normalProfileManifest": {
+    "url": "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/Maeen/\",\n  \"name\": \"مُعِين | MAEEN\",\n  \"short_name\": \"مُعِين\",\n  \"lang\": \"ar\",\n  \"dir\": \"rtl\",\n  \"start_url\": \"./#home\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"any\",\n  \"background_color\": \"#091b19\",\n  \"theme_color\": \"#0b2925\",\n  \"icons\": [\n    {\n      \"src\": \"./icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-maskable-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"maskable\"\n    },\n    {\n      \"src\": \"./icon.svg\",\n      \"sizes\": \"any\",\n      \"type\": \"image/svg+xml\",\n      \"purpose\": \"any\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:4200/Maeen/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(9,27,25,1)",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon.svg",
+          "sizes": "0x0",
+          "type": "image/svg+xml"
+        }
+      ],
+      "id": "http://127.0.0.1:4200/Maeen/",
+      "name": "مُعِين | MAEEN",
+      "orientation": "ANY",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:4200/Maeen/",
+      "startUrl": "http://127.0.0.1:4200/Maeen/#home",
+      "themeColor": "rgba(11,41,37,1)"
+    }
+  },
+  "nativeInstallEventSeen": true,
+  "standaloneMediaEmulation": false
+}

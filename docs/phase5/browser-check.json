@@ -1,0 +1,39 @@
+{
+  "modelsBeforeStart": 0,
+  "firstCompositionMs": 3671,
+  "firstComposition": "B",
+  "heldComposition": "B",
+  "reset": {
+    "textareas": 0,
+    "videos": 0,
+    "cameraButton": 0
+  },
+  "arslBuffer": "",
+  "aslBufferAfterSwitch": "",
+  "benchmark": {
+    "loadMs": 8.100000001490116,
+    "meanClassifierMs": 0.033200000002980234,
+    "p95ClassifierMs": 0.10000000149011612,
+    "maxLogitDifference": 0.000002193127915717241,
+    "iterations": 1000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36"
+  },
+  "responsive": [
+    {
+      "width": 360,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "nonGetRequests": [],
+  "fixture": "Real CC0 B/B0001_test.jpg repeated only as an engineering camera fixture; not training data or a live-human accuracy test."
+}

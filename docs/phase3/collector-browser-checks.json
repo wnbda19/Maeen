@@ -1,0 +1,39 @@
+{
+  "checkedOn": "2026-10-21",
+  "layouts": [
+    {
+      "officialLink": "https://sshi.sa/category/23/972",
+      "overflow": false,
+      "startDisabled": true,
+      "targetOptions": 27,
+      "videoSource": null,
+      "width": 375
+    },
+    {
+      "officialLink": "https://sshi.sa/category/23/972",
+      "overflow": false,
+      "startDisabled": true,
+      "targetOptions": 27,
+      "videoSource": null,
+      "width": 768
+    },
+    {
+      "officialLink": "https://sshi.sa/category/23/972",
+      "overflow": false,
+      "startDisabled": true,
+      "targetOptions": 27,
+      "videoSource": null,
+      "width": 1440
+    }
+  ],
+  "minProfileObserved": true,
+  "noCaptureAttempted": true,
+  "noParticipantRecordings": true,
+  "final": {
+    "consentChecked": false,
+    "csp": "default-src 'self'; connect-src 'none'; media-src 'self' blob:; img-src 'self' data: blob:; style-src 'self'; object-src 'none'; frame-src 'none'; base-uri 'self'; form-action 'none'",
+    "iframeCount": 0,
+    "officialReference": "https://sshi.sa/category/23/972",
+    "source": null
+  }
+}

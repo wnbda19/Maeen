@@ -1,0 +1,182 @@
+[
+  {
+    "filename": "1-116765-A-41.wav",
+    "fold": "1",
+    "target": "41",
+    "category": "chainsaw",
+    "esc10": "True",
+    "src_file": "116765",
+    "take": "A"
+  },
+  {
+    "filename": "1-19898-A-41.wav",
+    "fold": "1",
+    "target": "41",
+    "category": "chainsaw",
+    "esc10": "True",
+    "src_file": "19898",
+    "take": "A"
+  },
+  {
+    "filename": "1-21934-A-38.wav",
+    "fold": "1",
+    "target": "38",
+    "category": "clock_tick",
+    "esc10": "True",
+    "src_file": "21934",
+    "take": "A"
+  },
+  {
+    "filename": "1-21935-A-38.wav",
+    "fold": "1",
+    "target": "38",
+    "category": "clock_tick",
+    "esc10": "True",
+    "src_file": "21935",
+    "take": "A"
+  },
+  {
+    "filename": "1-17150-A-12.wav",
+    "fold": "1",
+    "target": "12",
+    "category": "crackling_fire",
+    "esc10": "True",
+    "src_file": "17150",
+    "take": "A"
+  },
+  {
+    "filename": "1-17565-A-12.wav",
+    "fold": "1",
+    "target": "12",
+    "category": "crackling_fire",
+    "esc10": "True",
+    "src_file": "17565",
+    "take": "A"
+  },
+  {
+    "filename": "1-187207-A-20.wav",
+    "fold": "1",
+    "target": "20",
+    "category": "crying_baby",
+    "esc10": "True",
+    "src_file": "187207",
+    "take": "A"
+  },
+  {
+    "filename": "1-211527-A-20.wav",
+    "fold": "1",
+    "target": "20",
+    "category": "crying_baby",
+    "esc10": "True",
+    "src_file": "211527",
+    "take": "A"
+  },
+  {
+    "filename": "1-100032-A-0.wav",
+    "fold": "1",
+    "target": "0",
+    "category": "dog",
+    "esc10": "True",
+    "src_file": "100032",
+    "take": "A"
+  },
+  {
+    "filename": "1-110389-A-0.wav",
+    "fold": "1",
+    "target": "0",
+    "category": "dog",
+    "esc10": "True",
+    "src_file": "110389",
+    "take": "A"
+  },
+  {
+    "filename": "1-172649-A-40.wav",
+    "fold": "1",
+    "target": "40",
+    "category": "helicopter",
+    "esc10": "True",
+    "src_file": "172649",
+    "take": "A"
+  },
+  {
+    "filename": "1-172649-B-40.wav",
+    "fold": "1",
+    "target": "40",
+    "category": "helicopter",
+    "esc10": "True",
+    "src_file": "172649",
+    "take": "B"
+  },
+  {
+    "filename": "1-17367-A-10.wav",
+    "fold": "1",
+    "target": "10",
+    "category": "rain",
+    "esc10": "True",
+    "src_file": "17367",
+    "take": "A"
+  },
+  {
+    "filename": "1-21189-A-10.wav",
+    "fold": "1",
+    "target": "10",
+    "category": "rain",
+    "esc10": "True",
+    "src_file": "21189",
+    "take": "A"
+  },
+  {
+    "filename": "1-26806-A-1.wav",
+    "fold": "1",
+    "target": "1",
+    "category": "rooster",
+    "esc10": "True",
+    "src_file": "26806",
+    "take": "A"
+  },
+  {
+    "filename": "1-27724-A-1.wav",
+    "fold": "1",
+    "target": "1",
+    "category": "rooster",
+    "esc10": "True",
+    "src_file": "27724",
+    "take": "A"
+  },
+  {
+    "filename": "1-28135-A-11.wav",
+    "fold": "1",
+    "target": "11",
+    "category": "sea_waves",
+    "esc10": "True",
+    "src_file": "28135",
+    "take": "A"
+  },
+  {
+    "filename": "1-28135-B-11.wav",
+    "fold": "1",
+    "target": "11",
+    "category": "sea_waves",
+    "esc10": "True",
+    "src_file": "28135",
+    "take": "B"
+  },
+  {
+    "filename": "1-26143-A-21.wav",
+    "fold": "1",
+    "target": "21",
+    "category": "sneezing",
+    "esc10": "True",
+    "src_file": "26143",
+    "take": "A"
+  },
+  {
+    "filename": "1-29680-A-21.wav",
+    "fold": "1",
+    "target": "21",
+    "category": "sneezing",
+    "esc10": "True",
+    "src_file": "29680",
+    "take": "A"
+  }
+]

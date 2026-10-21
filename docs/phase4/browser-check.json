@@ -1,0 +1,26 @@
+{
+  "input": "Real CC BY dog recording injected through browser test microphone; not a physical microphone",
+  "history": "Sound history\nClear\nDog barking\n8:26:26 PMAttention\n67%\n\nYAMNet · load 302 ms · inference 53 ms",
+  "errors": [],
+  "responsive": [
+    {
+      "width": 360,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "overflow": false
+    }
+  ],
+  "fallbackVerified": true,
+  "externalRequests": [],
+  "nonGetRequests": []
+}

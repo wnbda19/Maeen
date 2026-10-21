@@ -1,0 +1,56 @@
+[
+  {
+    "route": "home",
+    "failures": [],
+    "min": 6.08,
+    "sampled": 43
+  },
+  {
+    "route": "translator",
+    "failures": [],
+    "min": 5.37,
+    "sampled": 50
+  },
+  {
+    "route": "Arabic Words",
+    "failures": [],
+    "min": 5.37,
+    "sampled": 42
+  },
+  {
+    "route": "Learn Signs",
+    "failures": [],
+    "min": 5.79,
+    "sampled": 72
+  },
+  {
+    "route": "radar",
+    "failures": [],
+    "min": 5.79,
+    "sampled": 51
+  },
+  {
+    "route": "dictionary",
+    "failures": [],
+    "min": 5.79,
+    "sampled": 50
+  },
+  {
+    "route": "more",
+    "failures": [],
+    "min": 5.79,
+    "sampled": 104
+  },
+  {
+    "route": "more-expanded",
+    "failures": [],
+    "min": 5.79,
+    "sampled": 104
+  },
+  {
+    "route": "settings",
+    "failures": [],
+    "min": 5.55,
+    "sampled": 47
+  }
+]

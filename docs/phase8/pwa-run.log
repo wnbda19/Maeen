@@ -1,0 +1,638 @@
+Online models verified
+Offline shell, ArSL, ASL and Radar verified
+{
+  "physicalDevices": false,
+  "observations": [],
+  "startedAt": "2026-10-21T18:37:58.129Z",
+  "installability": {
+    "installabilityErrors": [
+      {
+        "errorId": "in-incognito",
+        "errorArguments": []
+      }
+    ]
+  },
+  "manifest": {
+    "url": "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/Maeen/\",\n  \"name\": \"مُعِين | MAEEN\",\n  \"short_name\": \"مُعِين\",\n  \"lang\": \"ar\",\n  \"dir\": \"rtl\",\n  \"start_url\": \"./#home\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"any\",\n  \"background_color\": \"#091b19\",\n  \"theme_color\": \"#0b2925\",\n  \"icons\": [\n    {\n      \"src\": \"./icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-maskable-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"maskable\"\n    },\n    {\n      \"src\": \"./icon.svg\",\n      \"sizes\": \"any\",\n      \"type\": \"image/svg+xml\",\n      \"purpose\": \"any\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:4200/Maeen/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(9,27,25,1)",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon.svg",
+          "sizes": "0x0",
+          "type": "image/svg+xml"
+        }
+      ],
+      "id": "http://127.0.0.1:4200/Maeen/",
+      "name": "مُعِين | MAEEN",
+      "orientation": "ANY",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:4200/Maeen/",
+      "startUrl": "http://127.0.0.1:4200/Maeen/#home",
+      "themeColor": "rgba(11,41,37,1)"
+    }
+  },
+  "initial": {
+    "navigationMs": 47.399999998509884,
+    "fcpMs": 336,
+    "aiRequests": []
+  },
+  "onlineCamera": {
+    "arslMs": 3019,
+    "aslMs": 442
+  },
+  "rearCameraRequest": "environment",
+  "onlineRadarReadyMs": 1204,
+  "radarMetrics": "YAMNet · load 276 ms · inference 47 ms",
+  "modelResourceTimings": [
+    {
+      "name": "models/arsl-forest.bin",
+      "durationMs": 34.600000001490116,
+      "bytes": 847916
+    },
+    {
+      "name": "models/arsl-labels.json",
+      "durationMs": 13.399999998509884,
+      "bytes": 497
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 21.099999994039536,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 198.90000000596046,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 149.39999999850988,
+      "bytes": 7819105
+    },
+    {
+      "name": "sign-models/asl-static/model.json",
+      "durationMs": 26.799999997019768,
+      "bytes": 369575
+    },
+    {
+      "name": "sign-models/asl-static/labels.json",
+      "durationMs": 9.700000002980232,
+      "bytes": 348
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 2.3000000044703484,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 61.600000001490116,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 43.70000000298023,
+      "bytes": 7819105
+    },
+    {
+      "name": "sign-models/asl-static/model.json",
+      "durationMs": 3.600000001490116,
+      "bytes": 369575
+    },
+    {
+      "name": "sign-models/asl-static/labels.json",
+      "durationMs": 3.7000000029802322,
+      "bytes": 348
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 3.100000001490116,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 61.79999999701977,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 39.899999998509884,
+      "bytes": 7819105
+    }
+  ],
+  "onlineNetworkCounts": {
+    "/Maeen/": 1,
+    "/Maeen/assets/index-Baqkn09H.js": 2,
+    "/Maeen/assets/index-C8-_0gGH.css": 2,
+    "/Maeen/sw.js": 1,
+    "/Maeen/index.html": 1,
+    "/Maeen/icon.svg": 1,
+    "/Maeen/icon-180.png": 1,
+    "/Maeen/icon-192.png": 1,
+    "/Maeen/icon-512.png": 1,
+    "/Maeen/icon-maskable-512.png": 1,
+    "/Maeen/audio-capture.js": 1,
+    "/Maeen/manifest.webmanifest": 1,
+    "/Maeen/model-catalog.json": 1,
+    "/Maeen/assets/asl-ZfdJDbWH.js": 1,
+    "/Maeen/assets/audio.worker-CA51gAsv.js": 1,
+    "/Maeen/assets/Dictionary-qnGOSTdk.js": 1,
+    "/Maeen/assets/forest-Dzq63Koy.js": 1,
+    "/Maeen/assets/errors-BpsiJa5N.js": 1,
+    "/Maeen/assets/load-JR_Hnx_J.js": 1,
+    "/Maeen/assets/MoreFeatures-BZZgcOrQ.js": 1,
+    "/Maeen/assets/PageHeading-yHRE4YQI.js": 1,
+    "/Maeen/assets/Radar-BcJRrK4F.js": 1,
+    "/Maeen/assets/Settings-6GvbgMs3.js": 1,
+    "/Maeen/assets/SpeechControls-Dj_aDwq3.js": 1,
+    "/Maeen/assets/status-DPvFMxw2.js": 1,
+    "/Maeen/assets/Translator-DFbnfECs.js": 1,
+    "/Maeen/models/arsl-forest.bin": 1,
+    "/Maeen/models/arsl-labels.json": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.js": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.wasm": 1,
+    "/Maeen/models/hand_landmarker.task": 1,
+    "/Maeen/sign-models/asl-static/model.json": 1,
+    "/Maeen/sign-models/asl-static/labels.json": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.js": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.wasm": 1,
+    "/Maeen/audio-models/yamnet.tflite": 1
+  },
+  "onlineResources": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "offlineReload": true,
+  "offlineRadarReadyMs": 213,
+  "offlineCamera": {
+    "arslMs": 578,
+    "aslMs": 451
+  },
+  "activeCameraOrientation": [
+    {
+      "width": 375,
+      "height": 812,
+      "resources": {
+        "liveTracks": 1,
+        "workers": 0,
+        "maxWorkers": 1,
+        "openAudioContexts": 0,
+        "listeners": [
+          [
+            "document:visibilitychange",
+            2
+          ],
+          [
+            "window:pagehide",
+            1
+          ],
+          [
+            "document:freeze",
+            1
+          ],
+          [
+            "window:maeen:shutdown",
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "width": 812,
+      "height": 375,
+      "resources": {
+        "liveTracks": 1,
+        "workers": 0,
+        "maxWorkers": 1,
+        "openAudioContexts": 0,
+        "listeners": [
+          [
+            "document:visibilitychange",
+            2
+          ],
+          [
+            "window:pagehide",
+            1
+          ],
+          [
+            "document:freeze",
+            1
+          ],
+          [
+            "window:maeen:shutdown",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "offlineNetworkCounts": {
+    "/Maeen/": 1,
+    "/Maeen/assets/index-Baqkn09H.js": 2,
+    "/Maeen/assets/index-C8-_0gGH.css": 2,
+    "/Maeen/sw.js": 4,
+    "/Maeen/index.html": 1,
+    "/Maeen/icon.svg": 1,
+    "/Maeen/icon-180.png": 1,
+    "/Maeen/icon-192.png": 1,
+    "/Maeen/icon-512.png": 1,
+    "/Maeen/icon-maskable-512.png": 1,
+    "/Maeen/audio-capture.js": 1,
+    "/Maeen/manifest.webmanifest": 1,
+    "/Maeen/model-catalog.json": 1,
+    "/Maeen/assets/asl-ZfdJDbWH.js": 1,
+    "/Maeen/assets/audio.worker-CA51gAsv.js": 1,
+    "/Maeen/assets/Dictionary-qnGOSTdk.js": 1,
+    "/Maeen/assets/forest-Dzq63Koy.js": 1,
+    "/Maeen/assets/errors-BpsiJa5N.js": 1,
+    "/Maeen/assets/load-JR_Hnx_J.js": 1,
+    "/Maeen/assets/MoreFeatures-BZZgcOrQ.js": 1,
+    "/Maeen/assets/PageHeading-yHRE4YQI.js": 1,
+    "/Maeen/assets/Radar-BcJRrK4F.js": 1,
+    "/Maeen/assets/Settings-6GvbgMs3.js": 1,
+    "/Maeen/assets/SpeechControls-Dj_aDwq3.js": 1,
+    "/Maeen/assets/status-DPvFMxw2.js": 1,
+    "/Maeen/assets/Translator-DFbnfECs.js": 1,
+    "/Maeen/models/arsl-forest.bin": 1,
+    "/Maeen/models/arsl-labels.json": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.js": 1,
+    "/Maeen/runtime/vision/vision_wasm_internal.wasm": 1,
+    "/Maeen/models/hand_landmarker.task": 1,
+    "/Maeen/sign-models/asl-static/model.json": 1,
+    "/Maeen/sign-models/asl-static/labels.json": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.js": 1,
+    "/Maeen/runtime/audio/audio_wasm_nosimd_internal.wasm": 1,
+    "/Maeen/audio-models/yamnet.tflite": 1
+  },
+  "modelRedownloads": [],
+  "responsive": [
+    {
+      "width": 375,
+      "height": 812,
+      "overflow": false
+    },
+    {
+      "width": 812,
+      "height": 375,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false
+    }
+  ],
+  "heapBefore": {
+    "usedSize": 5014960,
+    "totalSize": 5881856,
+    "embedderHeapUsedSize": 1583064,
+    "backingStorageSize": 441698
+  },
+  "cycles": [
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    }
+  ],
+  "cycleDurationMs": 3089,
+  "heapAfter": {
+    "usedSize": 5139716,
+    "totalSize": 5619712,
+    "embedderHeapUsedSize": 1647944,
+    "backingStorageSize": 444611
+  },
+  "resourcesAfterCycles": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        1
+      ],
+      [
+        "window:pagehide",
+        0
+      ],
+      [
+        "document:freeze",
+        0
+      ],
+      [
+        "window:maeen:shutdown",
+        0
+      ]
+    ]
+  },
+  "listenerBaseline": [
+    [
+      "document:visibilitychange",
+      2
+    ],
+    [
+      "window:pagehide",
+      1
+    ],
+    [
+      "document:freeze",
+      1
+    ],
+    [
+      "window:maeen:shutdown",
+      1
+    ]
+  ],
+  "browserFreezeEvents": 0,
+  "freezeHandlerSimulated": true,
+  "cameraAfterFreeze": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "micAfterInterruption": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "corruptionRejected": true,
+  "onlineRepair": true,
+  "updateReload": true,
+  "cache": [
+    {
+      "name": "maeen-%2FMaeen%2F-model-assets-v1",
+      "urls": [
+        "http://127.0.0.1:4200/Maeen/__verified/b067a6246d92daf5953c8cdf98b5dd9925d562c7e6adebaf3afbc462a608388f/models/arsl-labels.json",
+        "http://127.0.0.1:4200/Maeen/__verified/29c89e7e6e8e39ba5fb6c63dd30f4e0bd58e117aa0a4e6093aa0644582b9cf5c/models/arsl-forest.bin",
+        "http://127.0.0.1:4200/Maeen/__verified/6f6b86509cf9e163ea1cfec7edc8cf53732699c04781e4c21c557c1ba402310e/runtime/vision/vision_wasm_internal.js",
+        "http://127.0.0.1:4200/Maeen/__verified/cb3ec20026a9aecc2a81a93c25630ceb5389297ddb7a5f0bd61dd09cde606b9b/runtime/vision/vision_wasm_internal.wasm",
+        "http://127.0.0.1:4200/Maeen/__verified/fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1/models/hand_landmarker.task",
+        "http://127.0.0.1:4200/Maeen/__verified/4479c589e6478bd31e3c58f6f88ef147e2bf919d423542febfcb3d82eaaad4b2/sign-models/asl-static/labels.json",
+        "http://127.0.0.1:4200/Maeen/__verified/c258b51570e9feda9beb14ac1bf49d5c83d4c5a74d22018230f1e7a35eff0530/runtime/audio/audio_wasm_nosimd_internal.js",
+        "http://127.0.0.1:4200/Maeen/__verified/3a63688dcdf64a16d79680a9dab1a74853b5bea95ef9182c4ba35ff2ae37f687/runtime/audio/audio_wasm_nosimd_internal.wasm",
+        "http://127.0.0.1:4200/Maeen/__verified/4d8b4a53282dc83ef04e3e7dbc4fbc98082e34e44ed798e16c3a0cdd4c584faf/audio-models/yamnet.tflite",
+        "http://127.0.0.1:4200/Maeen/__verified/82443cb9faecdbcbfe5815ab672ba6753ab03dad902757b8a6b466264f40ec8e/sign-models/asl-static/model.json"
+      ]
+    },
+    {
+      "name": "maeen-%2FMaeen%2F-shell-77f810db44ecf09a-test4",
+      "urls": [
+        "http://127.0.0.1:4200/Maeen/index.html",
+        "http://127.0.0.1:4200/Maeen/icon.svg",
+        "http://127.0.0.1:4200/Maeen/icon-180.png",
+        "http://127.0.0.1:4200/Maeen/icon-192.png",
+        "http://127.0.0.1:4200/Maeen/icon-512.png",
+        "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+        "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+        "http://127.0.0.1:4200/Maeen/model-catalog.json",
+        "http://127.0.0.1:4200/Maeen/assets/index-C8-_0gGH.css",
+        "http://127.0.0.1:4200/Maeen/audio-capture.js",
+        "http://127.0.0.1:4200/Maeen/assets/asl-ZfdJDbWH.js",
+        "http://127.0.0.1:4200/Maeen/assets/audio.worker-CA51gAsv.js",
+        "http://127.0.0.1:4200/Maeen/assets/Dictionary-qnGOSTdk.js",
+        "http://127.0.0.1:4200/Maeen/assets/errors-BpsiJa5N.js",
+        "http://127.0.0.1:4200/Maeen/assets/forest-Dzq63Koy.js",
+        "http://127.0.0.1:4200/Maeen/assets/load-JR_Hnx_J.js",
+        "http://127.0.0.1:4200/Maeen/assets/MoreFeatures-BZZgcOrQ.js",
+        "http://127.0.0.1:4200/Maeen/assets/PageHeading-yHRE4YQI.js",
+        "http://127.0.0.1:4200/Maeen/assets/Radar-BcJRrK4F.js",
+        "http://127.0.0.1:4200/Maeen/assets/Settings-6GvbgMs3.js",
+        "http://127.0.0.1:4200/Maeen/assets/SpeechControls-Dj_aDwq3.js",
+        "http://127.0.0.1:4200/Maeen/assets/status-DPvFMxw2.js",
+        "http://127.0.0.1:4200/Maeen/assets/Translator-DFbnfECs.js",
+        "http://127.0.0.1:4200/Maeen/assets/index-Baqkn09H.js"
+      ]
+    }
+  ],
+  "errors": [],
+  "neverCachedModelFailure": true,
+  "neverCachedRadarFallback": true,
+  "normalProfileInstallability": {
+    "installabilityErrors": []
+  },
+  "normalProfileManifest": {
+    "url": "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/Maeen/\",\n  \"name\": \"مُعِين | MAEEN\",\n  \"short_name\": \"مُعِين\",\n  \"lang\": \"ar\",\n  \"dir\": \"rtl\",\n  \"start_url\": \"./#home\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"any\",\n  \"background_color\": \"#091b19\",\n  \"theme_color\": \"#0b2925\",\n  \"icons\": [\n    {\n      \"src\": \"./icon-192.png\",\n      \"sizes\": \"192x192\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"any\"\n    },\n    {\n      \"src\": \"./icon-maskable-512.png\",\n      \"sizes\": \"512x512\",\n      \"type\": \"image/png\",\n      \"purpose\": \"maskable\"\n    },\n    {\n      \"src\": \"./icon.svg\",\n      \"sizes\": \"any\",\n      \"type\": \"image/svg+xml\",\n      \"purpose\": \"any\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:4200/Maeen/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(9,27,25,1)",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon.svg",
+          "sizes": "0x0",
+          "type": "image/svg+xml"
+        }
+      ],
+      "id": "http://127.0.0.1:4200/Maeen/",
+      "name": "مُعِين | MAEEN",
+      "orientation": "ANY",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:4200/Maeen/",
+      "startUrl": "http://127.0.0.1:4200/Maeen/#home",
+      "themeColor": "rgba(11,41,37,1)"
+    }
+  },
+  "nativeInstallEventSeen": true,
+  "standaloneMediaEmulation": false
+}

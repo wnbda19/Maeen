@@ -1,0 +1,13 @@
+{
+  "profileId": "reference25",
+  "positiveTarget": 5625,
+  "negativeTarget": 150,
+  "recordedPositiveSlots": 0,
+  "acceptedPositiveSlots": 0,
+  "recordedNegativeSlots": 0,
+  "acceptedNegativeSlots": 0,
+  "remainingPositive": 5625,
+  "remainingNegative": 150,
+  "trainingReady": false,
+  "note": "Coverage only. Consent, linguistic approval, hashes/features and locked splits also required."
+}

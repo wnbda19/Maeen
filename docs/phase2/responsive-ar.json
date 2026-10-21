@@ -1,0 +1,122 @@
+[
+  {
+    "route": "home",
+    "dir": "rtl",
+    "documentWidth": 360,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 375
+  },
+  {
+    "route": "translator",
+    "dir": "rtl",
+    "documentWidth": 360,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 375
+  },
+  {
+    "route": "radar",
+    "dir": "rtl",
+    "documentWidth": 360,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 375
+  },
+  {
+    "route": "dictionary",
+    "dir": "rtl",
+    "documentWidth": 360,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 375
+  },
+  {
+    "route": "settings",
+    "dir": "rtl",
+    "documentWidth": 360,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 375
+  },
+  {
+    "route": "home",
+    "dir": "rtl",
+    "documentWidth": 753,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 768
+  },
+  {
+    "route": "translator",
+    "dir": "rtl",
+    "documentWidth": 753,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 768
+  },
+  {
+    "route": "radar",
+    "dir": "rtl",
+    "documentWidth": 753,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 768
+  },
+  {
+    "route": "dictionary",
+    "dir": "rtl",
+    "documentWidth": 753,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 768
+  },
+  {
+    "route": "settings",
+    "dir": "rtl",
+    "documentWidth": 753,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 768
+  },
+  {
+    "route": "home",
+    "dir": "rtl",
+    "documentWidth": 1425,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 1440
+  },
+  {
+    "route": "translator",
+    "dir": "rtl",
+    "documentWidth": 1425,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 1440
+  },
+  {
+    "route": "radar",
+    "dir": "rtl",
+    "documentWidth": 1425,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 1440
+  },
+  {
+    "route": "dictionary",
+    "dir": "rtl",
+    "documentWidth": 1425,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 1440
+  },
+  {
+    "route": "settings",
+    "dir": "rtl",
+    "documentWidth": 1425,
+    "path": "/Maeen/",
+    "smallTargets": [],
+    "width": 1440
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "route": "home",
+    "documentWidth": 360,
+    "fontSize": "18px",
+    "motion": "reduce",
+    "ringTransition": null,
+    "width": 375,
+    "contrast": {
+      "count": 40,
+      "failures": [],
+      "min": 6.08
+    }
+  },
+  {
+    "route": "translator",
+    "documentWidth": 360,
+    "fontSize": "18px",
+    "motion": "reduce",
+    "ringTransition": null,
+    "width": 375,
+    "contrast": {
+      "count": 39,
+      "failures": [],
+      "min": 8.45
+    }
+  },
+  {
+    "route": "radar",
+    "documentWidth": 360,
+    "fontSize": "18px",
+    "motion": "reduce",
+    "ringTransition": "0s",
+    "width": 375,
+    "contrast": {
+      "count": 39,
+      "failures": [],
+      "min": 9.6
+    }
+  },
+  {
+    "route": "dictionary",
+    "documentWidth": 360,
+    "fontSize": "18px",
+    "motion": "reduce",
+    "ringTransition": null,
+    "width": 375,
+    "contrast": {
+      "count": 45,
+      "failures": [],
+      "min": 9.65
+    }
+  },
+  {
+    "route": "settings",
+    "documentWidth": 360,
+    "fontSize": "18px",
+    "motion": "reduce",
+    "ringTransition": null,
+    "width": 375,
+    "contrast": {
+      "count": 42,
+      "failures": [],
+      "min": 8.44
+    }
+  }
+]

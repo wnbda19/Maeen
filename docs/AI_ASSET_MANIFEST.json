@@ -1,0 +1,42 @@
+{
+  "models/arsl-forest.bin": {
+    "bytes": 847916,
+    "sha256": "29c89e7e6e8e39ba5fb6c63dd30f4e0bd58e117aa0a4e6093aa0644582b9cf5c"
+  },
+  "models/arsl-labels.json": {
+    "bytes": 497,
+    "sha256": "b067a6246d92daf5953c8cdf98b5dd9925d562c7e6adebaf3afbc462a608388f"
+  },
+  "models/hand_landmarker.task": {
+    "bytes": 7819105,
+    "sha256": "fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1"
+  },
+  "mediapipe/wasm/one": {
+    "bytes": 2,
+    "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+  },
+  "mediapipe/wasm/vision_wasm_internal.js": {
+    "bytes": 343268,
+    "sha256": "02b9c91fc4946a1b965abe1c55e453fc0627dfa8d4a3d9c626c7c3043d80a1d0"
+  },
+  "mediapipe/wasm/vision_wasm_internal.wasm": {
+    "bytes": 13519922,
+    "sha256": "0e101a010e262ef8e78f22e3c95b60a9705fd06962753c9acd6356d9fb56b7bd"
+  },
+  "mediapipe/wasm/vision_wasm_module_internal.js": {
+    "bytes": 343302,
+    "sha256": "b9d107858a9247ef12953c284d52edee308c09400093c2df7ca6bdd5c6dc71c4"
+  },
+  "mediapipe/wasm/vision_wasm_module_internal.wasm": {
+    "bytes": 13519940,
+    "sha256": "3b57e4b55ac6346bf940212e3e11250b308a6a474077385e2f527b119cf74525"
+  },
+  "mediapipe/wasm/vision_wasm_nosimd_internal.js": {
+    "bytes": 343062,
+    "sha256": "863ce7f5a84c5ab3091d078d0d6641c374bb4074f245a9242be93f300916b3d9"
+  },
+  "mediapipe/wasm/vision_wasm_nosimd_internal.wasm": {
+    "bytes": 12627509,
+    "sha256": "c9b1b69bb87baf9e529254d8559dcbcf4c5a9c0eda84f56a12f17d675335ec9c"
+  }
+}

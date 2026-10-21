@@ -1,0 +1,137 @@
+{
+  "version": "maeen-reference-collection-v2-mvp15",
+  "status": "collection-required",
+  "linguisticReview": "pending",
+  "supportedWords": [],
+  "proposedWords": [
+    {
+      "id": "W101",
+      "ar": "نعم",
+      "en": "Yes (Bab Al-Din)",
+      "officialTermId": "972",
+      "officialUrl": "https://sshi.sa/category/23/972",
+      "category": "باب الدين"
+    },
+    {
+      "id": "W102",
+      "ar": "شكراً",
+      "en": "? Thank you",
+      "officialTermId": "5018",
+      "officialUrl": "https://sshi.sa/category/14/5018",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W103",
+      "ar": "مساعدة - مساندة",
+      "en": "Assistance",
+      "officialTermId": "11081",
+      "officialUrl": "https://sshi.sa/category/38/11081",
+      "category": "التربية الاسرية"
+    },
+    {
+      "id": "W104",
+      "ar": "أريد",
+      "en": "I Want",
+      "officialTermId": "5078",
+      "officialUrl": "https://sshi.sa/category/5/5078",
+      "category": "صفات وحالات"
+    },
+    {
+      "id": "W105",
+      "ar": "ماء",
+      "en": "Water",
+      "officialTermId": "9173",
+      "officialUrl": "https://sshi.sa/category/35/9173",
+      "category": "اللغة العربية"
+    },
+    {
+      "id": "W106",
+      "ar": "طبيب",
+      "en": "Physician",
+      "officialTermId": "9533",
+      "officialUrl": "https://sshi.sa/category/19/9533",
+      "category": "وظائف ومهن"
+    },
+    {
+      "id": "W107",
+      "ar": "مستشفى",
+      "en": "Hospital",
+      "officialTermId": "5591",
+      "officialUrl": "https://sshi.sa/category/13/5591",
+      "category": "الصحة والمرض"
+    },
+    {
+      "id": "W108",
+      "ar": "الم",
+      "en": "Pain",
+      "officialTermId": "5476",
+      "officialUrl": "https://sshi.sa/category/13/5476",
+      "category": "الصحة والمرض"
+    },
+    {
+      "id": "W109",
+      "ar": "خطر",
+      "en": "Danger",
+      "officialTermId": "2023",
+      "officialUrl": "https://sshi.sa/category/26/2023",
+      "category": "العلوم"
+    },
+    {
+      "id": "W110",
+      "ar": "شرطة",
+      "en": "Police",
+      "officialTermId": "11211",
+      "officialUrl": "https://sshi.sa/category/38/11211",
+      "category": "التربية الاسرية"
+    },
+    {
+      "id": "W111",
+      "ar": "سيارة",
+      "en": "Car",
+      "officialTermId": "6515",
+      "officialUrl": "https://sshi.sa/category/18/6515",
+      "category": "مرور ونقل"
+    },
+    {
+      "id": "W112",
+      "ar": "بيت",
+      "en": "House",
+      "officialTermId": "4586",
+      "officialUrl": "https://sshi.sa/category/10/4586",
+      "category": "المنزل"
+    },
+    {
+      "id": "W113",
+      "ar": "أين",
+      "en": "Ayna",
+      "officialTermId": "8425",
+      "officialUrl": "https://sshi.sa/category/35/8425",
+      "category": "اللغة العربية"
+    },
+    {
+      "id": "W114",
+      "ar": "أهلا",
+      "en": "Hello",
+      "officialTermId": "10664",
+      "officialUrl": "https://sshi.sa/category/38/10664",
+      "category": "التربية الاسرية"
+    },
+    {
+      "id": "W123",
+      "ar": "إسعاف",
+      "en": "First Aid",
+      "officialTermId": "5463",
+      "officialUrl": "https://sshi.sa/category/13/5463",
+      "category": "الصحة والمرض"
+    }
+  ],
+  "negativeClasses": [
+    "N000",
+    "N001"
+  ],
+  "negativeMeanings": {
+    "N000": "no-sign",
+    "N001": "unknown"
+  },
+  "collectionProfile": "mvp15"
+}

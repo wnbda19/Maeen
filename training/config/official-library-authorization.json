@@ -1,0 +1,20 @@
+{
+  "source": "saudi-sign-library",
+  "status": "not-confirmed",
+  "issuer": "Saudi Hearing Disability Association",
+  "reviewedBy": null,
+  "expiresOn": null,
+  "evidenceFile": null,
+  "evidenceSha256": null,
+  "termIds": [],
+  "rights": {
+    "programmaticAccess": false,
+    "downloadStore": false,
+    "landmarkExtraction": false,
+    "mlTraining": false,
+    "modelRedistribution": false,
+    "competitionDemo": false,
+    "publicWebDeployment": false,
+    "commercialUse": false
+  }
+}

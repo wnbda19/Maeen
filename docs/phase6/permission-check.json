@@ -1,0 +1,14 @@
+{
+  "physicalDevices": false,
+  "method": "Chromium permission-denial policy with virtual capture devices; no user camera or microphone accessed",
+  "results": [
+    {
+      "route": "translator",
+      "message": "Device access was not allowed. Open this site’s browser permissions, allow the camera or microphone, then retry."
+    },
+    {
+      "route": "radar",
+      "message": "Device access was not allowed. Open this site’s browser permissions, allow the camera or microphone, then retry."
+    }
+  ]
+}

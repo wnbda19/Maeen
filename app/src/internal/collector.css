@@ -1,0 +1,146 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #123d35;
+  background: #f2f7f3;
+  font-size: 16px;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.collector {
+  max-width: 1160px;
+  margin: auto;
+  padding: 24px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  border-bottom: 1px solid #b3cec4;
+}
+header span {
+  font-size: 24px;
+  font-weight: 700;
+}
+h1 {
+  font-size: clamp(1.6rem, 4vw, 2.3rem);
+}
+p {
+  line-height: 1.6;
+}
+section {
+  background: white;
+  padding: 20px;
+  border: 1px solid #b3cec4;
+  border-radius: 14px;
+  margin: 16px 0;
+}
+.collection-stats {
+  display: grid;
+  gap: 10px;
+}
+.collection-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.collection-grid section {
+  margin-top: 0;
+}
+fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+legend {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+label {
+  display: grid;
+  gap: 7px;
+  margin-bottom: 15px;
+}
+input,
+select,
+button {
+  font: inherit;
+  min-height: 44px;
+  max-width: 100%;
+  border: 1px solid #62877b;
+  border-radius: 7px;
+  padding: 9px;
+  background: white;
+  color: inherit;
+}
+select {
+  width: 100%;
+}
+button {
+  background: #125548;
+  color: white;
+  cursor: pointer;
+}
+button:disabled {
+  background: #d4e1d9;
+  color: #40584e;
+  cursor: default;
+}
+a {
+  color: #075d4c;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+video {
+  display: block;
+  background: #0b2925;
+  width: 100%;
+  aspect-ratio: 16/9;
+  margin-top: 18px;
+  border-radius: 8px;
+  object-fit: contain;
+}
+.collection-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  line-height: 1.5;
+}
+.consent input {
+  min-width: 24px;
+  min-height: 24px;
+}
+input:focus-visible,
+select:focus-visible,
+button:focus-visible,
+a:focus-visible {
+  outline: 3px solid #a15d00;
+  outline-offset: 3px;
+}
+[role="status"] {
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+@media (max-width: 760px) {
+  .collection-grid {
+    grid-template-columns: 1fr;
+  }
+  .collector {
+    padding: 14px;
+  }
+  header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0;
+  }
+}

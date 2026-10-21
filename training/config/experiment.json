@@ -1,0 +1,23 @@
+{
+ "seed":20261021,
+ "architectures":["tcn","gru","bilstm","stgcn"],
+ "defaultArchitecture":"tcn",
+ "steps":32,
+ "featureVersion":"maeen-temporal-v1",
+ "featureWidth":268,
+ "hiddenSize":64,
+ "batchSize":32,
+ "epochs":100,
+ "patience":12,
+ "learningRate":0.001,
+ "weightDecay":0.0001,
+ "dropout":0.2,
+ "maxGapMs":200,
+ "minFrames":8,
+ "minTemporalCoverage":0.8,
+ "minHandCoverage":0.6,
+ "minBodyCoverage":0.9,
+ "minFaceCoverage":0.8,
+ "augmentation":"none-until-linguistically-approved",
+ "rotation":false
+}

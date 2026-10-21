@@ -1,0 +1,341 @@
+{
+  "schemaVersion": "maeen-collection-v2",
+  "words": [
+    {
+      "id": "W101",
+      "ar": "نعم",
+      "en": "Yes (Bab Al-Din)",
+      "officialTermId": "972",
+      "officialUrl": "https://sshi.sa/category/23/972",
+      "category": "باب الدين"
+    },
+    {
+      "id": "W102",
+      "ar": "شكراً",
+      "en": "? Thank you",
+      "officialTermId": "5018",
+      "officialUrl": "https://sshi.sa/category/14/5018",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W103",
+      "ar": "مساعدة - مساندة",
+      "en": "Assistance",
+      "officialTermId": "11081",
+      "officialUrl": "https://sshi.sa/category/38/11081",
+      "category": "التربية الاسرية"
+    },
+    {
+      "id": "W104",
+      "ar": "أريد",
+      "en": "I Want",
+      "officialTermId": "5078",
+      "officialUrl": "https://sshi.sa/category/5/5078",
+      "category": "صفات وحالات"
+    },
+    {
+      "id": "W105",
+      "ar": "ماء",
+      "en": "Water",
+      "officialTermId": "9173",
+      "officialUrl": "https://sshi.sa/category/35/9173",
+      "category": "اللغة العربية"
+    },
+    {
+      "id": "W106",
+      "ar": "طبيب",
+      "en": "Physician",
+      "officialTermId": "9533",
+      "officialUrl": "https://sshi.sa/category/19/9533",
+      "category": "وظائف ومهن"
+    },
+    {
+      "id": "W107",
+      "ar": "مستشفى",
+      "en": "Hospital",
+      "officialTermId": "5591",
+      "officialUrl": "https://sshi.sa/category/13/5591",
+      "category": "الصحة والمرض"
+    },
+    {
+      "id": "W108",
+      "ar": "الم",
+      "en": "Pain",
+      "officialTermId": "5476",
+      "officialUrl": "https://sshi.sa/category/13/5476",
+      "category": "الصحة والمرض"
+    },
+    {
+      "id": "W109",
+      "ar": "خطر",
+      "en": "Danger",
+      "officialTermId": "2023",
+      "officialUrl": "https://sshi.sa/category/26/2023",
+      "category": "العلوم"
+    },
+    {
+      "id": "W110",
+      "ar": "شرطة",
+      "en": "Police",
+      "officialTermId": "11211",
+      "officialUrl": "https://sshi.sa/category/38/11211",
+      "category": "التربية الاسرية"
+    },
+    {
+      "id": "W111",
+      "ar": "سيارة",
+      "en": "Car",
+      "officialTermId": "6515",
+      "officialUrl": "https://sshi.sa/category/18/6515",
+      "category": "مرور ونقل"
+    },
+    {
+      "id": "W112",
+      "ar": "بيت",
+      "en": "House",
+      "officialTermId": "4586",
+      "officialUrl": "https://sshi.sa/category/10/4586",
+      "category": "المنزل"
+    },
+    {
+      "id": "W113",
+      "ar": "أين",
+      "en": "Ayna",
+      "officialTermId": "8425",
+      "officialUrl": "https://sshi.sa/category/35/8425",
+      "category": "اللغة العربية"
+    },
+    {
+      "id": "W114",
+      "ar": "أهلا",
+      "en": "Hello",
+      "officialTermId": "10664",
+      "officialUrl": "https://sshi.sa/category/38/10664",
+      "category": "التربية الاسرية"
+    },
+    {
+      "id": "W115",
+      "ar": "السلام عليكم",
+      "en": "Hello",
+      "officialTermId": "4857",
+      "officialUrl": "https://sshi.sa/category/14/4857",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W116",
+      "ar": "صباح الخير",
+      "en": "Good morning",
+      "officialTermId": "4858",
+      "officialUrl": "https://sshi.sa/category/14/4858",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W117",
+      "ar": "صباح النور",
+      "en": "Good morning",
+      "officialTermId": "4859",
+      "officialUrl": "https://sshi.sa/category/14/4859",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W118",
+      "ar": "مساء الخير",
+      "en": "Good evening",
+      "officialTermId": "4863",
+      "officialUrl": "https://sshi.sa/category/14/4863",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W119",
+      "ar": "وعليكم السلام",
+      "en": "And may peace be upon you",
+      "officialTermId": "4864",
+      "officialUrl": "https://sshi.sa/category/14/4864",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W120",
+      "ar": "هل أنت بخير ؟",
+      "en": "?Are you well",
+      "officialTermId": "4872",
+      "officialUrl": "https://sshi.sa/category/14/4872",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W121",
+      "ar": "أسرع لو سمحت",
+      "en": "Hurry, please",
+      "officialTermId": "4874",
+      "officialUrl": "https://sshi.sa/category/14/4874",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W122",
+      "ar": "لحظة من فضلك",
+      "en": "one moment please",
+      "officialTermId": "4877",
+      "officialUrl": "https://sshi.sa/category/14/4877",
+      "category": "باب العلاقات الاجتماعية"
+    },
+    {
+      "id": "W123",
+      "ar": "إسعاف",
+      "en": "First Aid",
+      "officialTermId": "5463",
+      "officialUrl": "https://sshi.sa/category/13/5463",
+      "category": "الصحة والمرض"
+    },
+    {
+      "id": "W124",
+      "ar": "عيادة",
+      "en": "Clinic",
+      "officialTermId": "904",
+      "officialUrl": "https://sshi.sa/category/13/904",
+      "category": "الصحة والمرض"
+    },
+    {
+      "id": "W125",
+      "ar": "إعاقة سمعية",
+      "en": "Hearing Impairment",
+      "officialTermId": "5469",
+      "officialUrl": "https://sshi.sa/category/13/5469",
+      "category": "الصحة والمرض"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "reference25",
+      "name": "Full 25-term dataset",
+      "wordIds": [
+        "W101",
+        "W102",
+        "W103",
+        "W104",
+        "W105",
+        "W106",
+        "W107",
+        "W108",
+        "W109",
+        "W110",
+        "W111",
+        "W112",
+        "W113",
+        "W114",
+        "W115",
+        "W116",
+        "W117",
+        "W118",
+        "W119",
+        "W120",
+        "W121",
+        "W122",
+        "W123",
+        "W124",
+        "W125"
+      ],
+      "signers": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015"
+      ],
+      "repetitions": 15,
+      "negativeRepetitions": 5,
+      "positiveTarget": 5625,
+      "negativeTarget": 150,
+      "splits": {
+        "train": [
+          "S001",
+          "S002",
+          "S003",
+          "S004",
+          "S005",
+          "S006",
+          "S007",
+          "S008",
+          "S009"
+        ],
+        "validation": [
+          "S010",
+          "S011",
+          "S012"
+        ],
+        "test": [
+          "S013",
+          "S014",
+          "S015"
+        ]
+      }
+    },
+    {
+      "id": "mvp15",
+      "name": "Minimum 15-term competition dataset",
+      "wordIds": [
+        "W101",
+        "W102",
+        "W103",
+        "W104",
+        "W105",
+        "W106",
+        "W107",
+        "W108",
+        "W109",
+        "W110",
+        "W111",
+        "W112",
+        "W113",
+        "W114",
+        "W123"
+      ],
+      "signers": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012"
+      ],
+      "repetitions": 15,
+      "negativeRepetitions": 5,
+      "positiveTarget": 2700,
+      "negativeTarget": 120,
+      "splits": {
+        "train": [
+          "S001",
+          "S002",
+          "S003",
+          "S004",
+          "S005",
+          "S006",
+          "S007",
+          "S008"
+        ],
+        "validation": [
+          "S009",
+          "S010"
+        ],
+        "test": [
+          "S011",
+          "S012"
+        ]
+      }
+    }
+  ]
+}

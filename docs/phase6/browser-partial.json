@@ -1,0 +1,417 @@
+{
+  "physicalDevices": false,
+  "observations": [],
+  "installability": {
+    "installabilityErrors": [
+      {
+        "errorId": "in-incognito",
+        "errorArguments": []
+      }
+    ]
+  },
+  "manifest": {
+    "url": "http://127.0.0.1:4200/Maeen/manifest.webmanifest",
+    "errors": [],
+    "data": "{\n  \"id\": \"/Maeen/\",\n  \"name\": \"مُعِين | MAEEN\",\n  \"short_name\": \"مُعِين\",\n  \"lang\": \"ar\",\n  \"dir\": \"rtl\",\n  \"start_url\": \"./#home\",\n  \"scope\": \"./\",\n  \"display\": \"standalone\",\n  \"orientation\": \"any\",\n  \"background_color\": \"#091b19\",\n  \"theme_color\": \"#0b2925\",\n  \"icons\": [\n    {\"src\":\"./icon-192.png\",\"sizes\":\"192x192\",\"type\":\"image/png\",\"purpose\":\"any\"},\n    {\"src\":\"./icon-512.png\",\"sizes\":\"512x512\",\"type\":\"image/png\",\"purpose\":\"any\"},\n    {\"src\":\"./icon-maskable-512.png\",\"sizes\":\"512x512\",\"type\":\"image/png\",\"purpose\":\"maskable\"},\n    {\n      \"src\": \"./icon.svg\",\n      \"sizes\": \"any\",\n      \"type\": \"image/svg+xml\",\n      \"purpose\": \"any\"\n    }\n  ]\n}\n",
+    "parsed": {
+      "scope": "http://127.0.0.1:4200/Maeen/"
+    },
+    "manifest": {
+      "backgroundColor": "rgba(9,27,25,1)",
+      "display": "kStandalone",
+      "icons": [
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon-maskable-512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "url": "http://127.0.0.1:4200/Maeen/icon.svg",
+          "sizes": "0x0",
+          "type": "image/svg+xml"
+        }
+      ],
+      "id": "http://127.0.0.1:4200/Maeen/",
+      "name": "مُعِين | MAEEN",
+      "orientation": "ANY",
+      "preferRelatedApplications": false,
+      "scope": "http://127.0.0.1:4200/Maeen/",
+      "startUrl": "http://127.0.0.1:4200/Maeen/#home",
+      "themeColor": "rgba(11,41,37,1)"
+    }
+  },
+  "initial": {
+    "navigationMs": 45.099999994039536,
+    "fcpMs": 352,
+    "aiRequests": []
+  },
+  "onlineCamera": {
+    "arslMs": 3065,
+    "aslMs": 451
+  },
+  "onlineRadarReadyMs": 1193,
+  "radarMetrics": "YAMNet · load 304 ms · inference 47 ms",
+  "modelResourceTimings": [
+    {
+      "name": "models/arsl-forest.bin",
+      "durationMs": 32.399999998509884,
+      "bytes": 847916
+    },
+    {
+      "name": "models/arsl-labels.json",
+      "durationMs": 12.399999998509884,
+      "bytes": 497
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 38.600000001490116,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 206.09999999403954,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 147.39999999850988,
+      "bytes": 7819105
+    },
+    {
+      "name": "sign-models/asl-static/model.json",
+      "durationMs": 22.700000002980232,
+      "bytes": 369575
+    },
+    {
+      "name": "sign-models/asl-static/labels.json",
+      "durationMs": 7.300000004470348,
+      "bytes": 348
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.js",
+      "durationMs": 2.7999999970197678,
+      "bytes": 204816
+    },
+    {
+      "name": "runtime/vision/vision_wasm_internal.wasm",
+      "durationMs": 61.20000000298023,
+      "bytes": 11453626
+    },
+    {
+      "name": "models/hand_landmarker.task",
+      "durationMs": 41.400000005960464,
+      "bytes": 7819105
+    }
+  ],
+  "onlineResources": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "offlineReload": true,
+  "offlineRadarReadyMs": 213,
+  "offlineCamera": {
+    "arslMs": 852,
+    "aslMs": 451
+  },
+  "responsive": [
+    {
+      "width": 375,
+      "height": 812,
+      "overflow": false
+    },
+    {
+      "width": 812,
+      "height": 375,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false
+    }
+  ],
+  "heapBefore": {
+    "usedSize": 4956220,
+    "totalSize": 5357568,
+    "embedderHeapUsedSize": 1556376,
+    "backingStorageSize": 642267
+  },
+  "cycles": [
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    },
+    {
+      "liveTracks": 0,
+      "workers": 0,
+      "maxWorkers": 1,
+      "openAudioContexts": 0,
+      "listeners": [
+        [
+          "document:visibilitychange",
+          1
+        ],
+        [
+          "window:pagehide",
+          0
+        ],
+        [
+          "document:freeze",
+          0
+        ],
+        [
+          "window:maeen:shutdown",
+          0
+        ]
+      ]
+    }
+  ],
+  "heapAfter": {
+    "usedSize": 5129864,
+    "totalSize": 5619712,
+    "embedderHeapUsedSize": 1438768,
+    "backingStorageSize": 645278
+  },
+  "resourcesAfterCycles": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        1
+      ],
+      [
+        "window:pagehide",
+        0
+      ],
+      [
+        "document:freeze",
+        0
+      ],
+      [
+        "window:maeen:shutdown",
+        0
+      ]
+    ]
+  },
+  "listenerBaseline": [
+    [
+      "document:visibilitychange",
+      2
+    ],
+    [
+      "window:pagehide",
+      1
+    ],
+    [
+      "document:freeze",
+      1
+    ],
+    [
+      "window:maeen:shutdown",
+      1
+    ]
+  ],
+  "browserFreezeEvents": 0,
+  "freezeHandlerSimulated": true,
+  "cameraAfterFreeze": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "micAfterInterruption": {
+    "liveTracks": 0,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "lastPageText": "Independent sign language\nASL — American Sign Language\n\nChoose a mode and review model status and vocabulary before starting the camera.\n\nSign Language\nالعربية — ArSL\nASL — American Sign Language\n한국 수어 — KSL\n\nIndependent sign languages; changing language stops the camera and clears text and recognition evidence.\n\nLetters\n24 static letters — experimental; J and Z unsupported\nWords\nModel unavailable\nModel status\nExperimental; separate-source image accuracy 63.1% when a hand is detected; not signer-independent\nSupported letter classes\n\nThis model does not recognize words or J/Z motion. Live webcam reliability is unverified. Unseen handshapes may receive high confidence.\n\nLetters\nExperimental model\nWords\nModel unavailable\nLearn Signs\nCamera preview\nActive\nStart camera\nStop\nCamera\nFront\nRear\n\nTracking is active\n\nCamera frames are processed in this browser and are not uploaded.\n\nDetected character\nB\n\nActive\n\nModel score\n100%\n\nSmoothed MLP score; not calibrated probability or live webcam accuracy.\n\nLetter buffer\nASL\n\nStable letters appear here. Edit or copy the composed text.\n\nB\n\nAdd detected letter\nDelete last letter\nCopy text\nAdd space\nClear\n\nStable letters are added automatically. Manual addition repeats the displayed letter.\n\nSpeech is not connected for this mode; copy the composed text instead.\n\nSupported letters\n\nA · B · C · D · E · F · G · H · I · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y\n\nJ and Z require temporal motion recognition and are unsupported.",
+  "lastResources": {
+    "liveTracks": 1,
+    "workers": 0,
+    "maxWorkers": 1,
+    "openAudioContexts": 0,
+    "listeners": [
+      [
+        "document:visibilitychange",
+        2
+      ],
+      [
+        "window:pagehide",
+        1
+      ],
+      [
+        "document:freeze",
+        1
+      ],
+      [
+        "window:maeen:shutdown",
+        1
+      ]
+    ]
+  },
+  "lastAudio": [
+    {
+      "kind": "video",
+      "state": "live",
+      "muted": false,
+      "settings": {
+        "aspectRatio": 1,
+        "deviceId": "c348350fd82b6c6761a875f1f42fcef9db6dba4160525807577bbd899e8d4921",
+        "frameRate": 30,
+        "groupId": "1e79569b4e051eb386e2a85a4c321f47f816052406edcb7715c5e90f683dfdef",
+        "height": 200,
+        "resizeMode": "none",
+        "width": 200
+      }
+    }
+  ],
+  "error": "TimeoutError: locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByText(/This AI model is unavailable offline/) to be visible\u001b[22m\n"
+}

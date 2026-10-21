@@ -1,0 +1,39 @@
+{
+  "scope": "untrained architecture parameter counts, not trained model performance or size",
+  "classes": 17,
+  "shape": [
+    1,
+    32,
+    268
+  ],
+  "architectures": {
+    "tcn": {
+      "parameters": 77329,
+      "fp32ParameterBytes": 309316,
+      "signerIndependentAccuracy": null,
+      "macroF1": null,
+      "browserLatencyMs": null
+    },
+    "gru": {
+      "parameters": 65233,
+      "fp32ParameterBytes": 260932,
+      "signerIndependentAccuracy": null,
+      "macroF1": null,
+      "browserLatencyMs": null
+    },
+    "bilstm": {
+      "parameters": 78417,
+      "fp32ParameterBytes": 313668,
+      "signerIndependentAccuracy": null,
+      "macroF1": null,
+      "browserLatencyMs": null
+    },
+    "stgcn": {
+      "parameters": 7729,
+      "fp32ParameterBytes": 30916,
+      "signerIndependentAccuracy": null,
+      "macroF1": null,
+      "browserLatencyMs": null
+    }
+  }
+}

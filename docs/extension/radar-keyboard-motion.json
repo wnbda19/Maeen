@@ -1,0 +1,15 @@
+{
+  "thresholdAfterArrowRight": -24,
+  "motion": "reduce",
+  "reduced": "true",
+  "rings": [
+    {
+      "transform": "none",
+      "transition": "0s"
+    },
+    {
+      "transform": "none",
+      "transition": "0s"
+    }
+  ]
+}

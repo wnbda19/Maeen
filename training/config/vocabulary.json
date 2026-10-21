@@ -1,0 +1,25 @@
+{
+  "version": "maeen-first-party-v1-draft",
+  "status": "collection-required",
+  "linguisticReview": "pending",
+  "supportedWords": [],
+  "proposedWords": [
+    {"id":"W001","ar":"نعم","en":"yes"},
+    {"id":"W002","ar":"لا","en":"no"},
+    {"id":"W003","ar":"مرحبا","en":"hello"},
+    {"id":"W004","ar":"شكرا","en":"thank you"},
+    {"id":"W005","ar":"مساعدة","en":"help"},
+    {"id":"W006","ar":"ماء","en":"water"},
+    {"id":"W007","ar":"طعام","en":"food"},
+    {"id":"W008","ar":"أريد","en":"want"},
+    {"id":"W009","ar":"أين","en":"where"},
+    {"id":"W010","ar":"انتظر","en":"wait"},
+    {"id":"W011","ar":"خطر","en":"danger"},
+    {"id":"W012","ar":"مستشفى","en":"hospital"},
+    {"id":"W013","ar":"طبيب","en":"doctor"},
+    {"id":"W014","ar":"ألم","en":"pain"},
+    {"id":"W015","ar":"شرطة","en":"police"}
+  ],
+  "negativeClasses": ["N000", "N001"],
+  "negativeMeanings": {"N000":"no-sign", "N001":"unknown"}
+}

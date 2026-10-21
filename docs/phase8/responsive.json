@@ -1,0 +1,1147 @@
+{
+  "checks": 60,
+  "failed": [],
+  "results": [
+    {
+      "lang": "ar",
+      "width": 375,
+      "height": 812,
+      "route": "home",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 375,
+      "height": 812,
+      "route": "translator",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 375,
+      "height": 812,
+      "route": "radar",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 375,
+      "height": 812,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 375,
+      "height": 812,
+      "route": "more",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 375,
+      "height": 812,
+      "route": "settings",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 812,
+      "height": 375,
+      "route": "home",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 812,
+      "height": 375,
+      "route": "translator",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 812,
+      "height": 375,
+      "route": "radar",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 812,
+      "height": 375,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 812,
+      "height": 375,
+      "route": "more",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 812,
+      "height": 375,
+      "route": "settings",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "height": 1024,
+      "route": "home",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "height": 1024,
+      "route": "translator",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "height": 1024,
+      "route": "radar",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "height": 1024,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "height": 1024,
+      "route": "more",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "height": 1024,
+      "route": "settings",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1024,
+      "height": 768,
+      "route": "home",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1024,
+      "height": 768,
+      "route": "translator",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1024,
+      "height": 768,
+      "route": "radar",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1024,
+      "height": 768,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1024,
+      "height": 768,
+      "route": "more",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1024,
+      "height": 768,
+      "route": "settings",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "height": 900,
+      "route": "home",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "height": 900,
+      "route": "translator",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "height": 900,
+      "route": "radar",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "height": 900,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "height": 900,
+      "route": "more",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "height": 900,
+      "route": "settings",
+      "overflow": false,
+      "direction": "rtl",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 375,
+      "height": 812,
+      "route": "home",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 375,
+      "height": 812,
+      "route": "translator",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 375,
+      "height": 812,
+      "route": "radar",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 375,
+      "height": 812,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 375,
+      "height": 812,
+      "route": "more",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 375,
+      "height": 812,
+      "route": "settings",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 812,
+      "height": 375,
+      "route": "home",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 812,
+      "height": 375,
+      "route": "translator",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 812,
+      "height": 375,
+      "route": "radar",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 812,
+      "height": 375,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 812,
+      "height": 375,
+      "route": "more",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 812,
+      "height": 375,
+      "route": "settings",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "height": 1024,
+      "route": "home",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "height": 1024,
+      "route": "translator",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "height": 1024,
+      "route": "radar",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "height": 1024,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "height": 1024,
+      "route": "more",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "height": 1024,
+      "route": "settings",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "height": 768,
+      "route": "home",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "height": 768,
+      "route": "translator",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "height": 768,
+      "route": "radar",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "height": 768,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "height": 768,
+      "route": "more",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1024,
+      "height": 768,
+      "route": "settings",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "route": "home",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "route": "translator",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "route": "radar",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "route": "dictionary",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "route": "more",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "height": 900,
+      "route": "settings",
+      "overflow": false,
+      "direction": "ltr",
+      "headerCount": 1,
+      "headerOverlapsHeading": false,
+      "navLinks": [
+        "#home",
+        "#translator",
+        "#radar",
+        "#dictionary",
+        "#more",
+        "#settings"
+      ],
+      "smallButtons": []
+    }
+  ],
+  "physicalDevices": false
+}

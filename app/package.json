@@ -1,0 +1,32 @@
+{
+  "name": "maeen",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare:assets": "node scripts/prepare-assets.mjs && node scripts/prepare-audio-assets.mjs && node scripts/prepare-sign-assets.mjs",
+    "dev": "npm run prepare:assets && vite --host 127.0.0.1",
+    "build": "npm run prepare:assets && tsc --noEmit && vite build && node scripts/build-sw.mjs",
+    "test": "vitest run",
+    "preview": "vite preview --host 127.0.0.1",
+    "build:collector": "tsc --noEmit && vite build --config vite.collector.config.ts",
+    "collector": "npm run build:collector && vite preview --config vite.collector.config.ts --host 127.0.0.1 --port 4196 --strictPort"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-audio": "0.10.32",
+    "@mediapipe/tasks-vision": "0.10.32",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "16.3.3",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "axe-core": "4.14.0",
+    "jsdom": "28.1.0",
+    "prettier": "3.9.10",
+    "typescript": "5.9.3",
+    "vite": "8.3.4",
+    "vitest": "5.0.5"
+  }
+}
